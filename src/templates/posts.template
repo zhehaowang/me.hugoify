@@ -1,0 +1,8 @@
+
+---
+title: "{{ title }}"
+date: {{ created_date }}
+draft: true
+---
+
+{{ content }}

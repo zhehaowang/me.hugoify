@@ -1,0 +1,96 @@
+#! /usr/bin/env python3
+
+import argparse
+import os
+
+import pathspec
+import git
+import logging
+import datetime
+import shutil
+
+from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+class Converter():
+    def __init__(self, repo, target_path):
+        self.repo = repo
+        self.target_path = target_path
+        self.jinja_env = Environment(
+            loader=FileSystemLoader('templates/'),
+            autoescape=select_autoescape(['md'])
+        )
+
+        self.templates = {}
+        self.templates["posts"] = {
+            "dest": "content/posts",
+            "template": self.jinja_env.get_template("posts.template")
+        }
+        return
+
+    def infer_category(self, filename):
+        if 'book-notes' in filename:
+            return 'book'
+        if 'essay' in filename:
+            return 'posts'
+        return ''
+
+    def infer_dates(self, filename):
+        commits = list(self.repo.iter_commits(paths=filename))
+        
+        if len(commits) > 0:
+            created = datetime.datetime.fromtimestamp(commits[0].authored_date)
+            last_updated = datetime.datetime.fromtimestamp(commits[-1].authored_date)
+            return created, last_updated
+        else:
+            return datetime.datetime.now(), datetime.datetime.now()
+
+    def create(self, filename):
+        category = self.infer_category(filename)
+        if category in self.templates:
+            title = os.path.basename(filename).replace('_', ' ').replace('-', ' ').strip('.md').upper()
+            created, _ = self.infer_dates(filename)
+            dest_folder = os.path.join(self.target_path, self.templates[category]["dest"])
+            if not os.path.exists(dest_folder):
+                os.makedirs(dest_folder)
+            dest_file = os.path.join(dest_folder, os.path.basename(filename))
+            with open(dest_file, "w") as wfile, open(filename, "r") as rfile:
+                content = rfile.read()
+                rendered = self.templates[category]["template"].render(created_date=created, title=title, content=content)
+                wfile.write(rendered)
+                logging.info("rendered {} from {}".format(dest_file, filename))
+        return
+
+    def create_files(self, infiles):
+        for filename in infiles:
+            self.create(filename)
+        return
+
+def get_local_checkout(remote, local_dir):
+    try:
+        repo = git.Repo(local_dir)
+    except git.exc.InvalidGitRepositoryError:
+        repo = git.Repo.clone_from(remote, local_dir)
+    except git.exc.NoSuchPathError:
+        repo = git.Repo.clone_from(remote, local_dir)
+    repo.remote().pull(repo.active_branch)
+    logging.info("finished updating repo at {}".format(os.path.abspath(local_dir)))
+    return repo
+
+def get_src_list(local_dir, include_file):
+    with open(include_file, 'r') as include:
+        spec = pathspec.PathSpec.from_lines(pathspec.patterns.GitWildMatchPattern, include.readlines())
+        result = [os.path.abspath(os.path.join(local_dir, f)) for f in spec.match_tree(local_dir)]
+        return result
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+
+    local_dir = "../checkout"
+    repo = get_local_checkout("https://github.com/zhehaowang/zhehao.me.git", local_dir)
+
+    include_file = "site.include"
+    src_files = get_src_list(local_dir, include_file)
+    
+    target_dir = "../generated"
+    converter = Converter(repo, target_dir)
+    converter.create_files(src_files)

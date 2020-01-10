@@ -1,0 +1,5 @@
+# include these following
+essays/*.md
+book-notes/**/readme.md
+!.git/
+!essays/unused.md
