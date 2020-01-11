@@ -1,0 +1,63 @@
+baseURL = "http://zhehao.me/"
+languageCode = "en-us"
+title = "Zhehao Wang"
+theme = "minimal"
+# disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = "Zhehao Wang"
+    description = "Engineer &#x1F602;  Lifelong learner &#x1F914;"
+    githubUsername = "zhehaowang"
+    accent = "DarkBlue"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["cpp", "python", "bash", "javascript"]
+    profilePic = "logo.png"
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/notes/"
+    name = "Notes"
+    weight = 3
+
+[[menu.main]]
+    url = "/posts/"
+    name = "Posts"
+    weight = 4
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 5
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:wangzhehao410305@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/zhehaowang/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/zhehao-wang-me/"
+    name = "linkedin"
+    weight = 3
