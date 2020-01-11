@@ -21,17 +21,29 @@ class Converter():
         )
 
         self.templates = {}
-        self.templates["posts"] = {
-            "dest": "content/posts",
-            "template": self.jinja_env.get_template("posts.template")
+        self.templates = {
+            "posts": {
+                "dest": "content/posts",
+                "template": self.jinja_env.get_template("posts.template")
+            },
+            "notes": {
+                "dest": "content/notes",
+                "template": self.jinja_env.get_template("posts.template")
+            },
+            "about": {
+                "dest": "content",
+                "template": self.jinja_env.get_template("about.template")
+            }
         }
         return
 
     def infer_category(self, filename):
         if 'book-notes' in filename:
-            return 'book'
+            return 'notes'
         if 'essay' in filename:
             return 'posts'
+        if 'about' in filename:
+            return 'about'
         return ''
 
     def infer_dates(self, filename):
@@ -44,15 +56,24 @@ class Converter():
         else:
             return datetime.datetime.now(), datetime.datetime.now()
 
+    def infer_filename(self, dest_folder, filename):
+        # use this document's name by default
+        # if the document's name is readme, substitute with folder name
+        if os.path.basename(filename).strip().lower() == "readme.md":
+            filename = os.path.basename(os.path.dirname(filename))
+            filename += ".md"
+        dest_file = os.path.join(dest_folder, os.path.basename(filename))
+        return dest_file
+
     def create(self, filename):
         category = self.infer_category(filename)
         if category in self.templates:
-            title = os.path.basename(filename).replace('_', ' ').replace('-', ' ').strip('.md').upper()
             created, _ = self.infer_dates(filename)
             dest_folder = os.path.join(self.target_path, self.templates[category]["dest"])
             if not os.path.exists(dest_folder):
                 os.makedirs(dest_folder)
-            dest_file = os.path.join(dest_folder, os.path.basename(filename))
+            dest_file = self.infer_filename(dest_folder, filename)
+            title = os.path.basename(dest_file).replace('_', ' ').replace('-', ' ').strip('.md').capitalize()
             with open(dest_file, "w") as wfile, open(filename, "r") as rfile:
                 content = rfile.read()
                 rendered = self.templates[category]["template"].render(created_date=created, title=title, content=content)

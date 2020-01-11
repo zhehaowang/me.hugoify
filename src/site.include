@@ -1,5 +1,6 @@
 # include these following
 essays/*.md
 book-notes/**/readme.md
+about.md
 !.git/
 !essays/unused.md
