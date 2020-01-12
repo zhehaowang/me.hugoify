@@ -73,7 +73,7 @@ class Converter():
             if not os.path.exists(dest_folder):
                 os.makedirs(dest_folder)
             dest_file = self.infer_filename(dest_folder, filename)
-            title = os.path.basename(dest_file).replace('_', ' ').replace('-', ' ').strip('.md').capitalize()
+            title = os.path.basename(dest_file).replace('_', ' ').replace('-', ' ').replace('.md', '').capitalize()
             with open(dest_file, "w") as wfile, open(filename, "r") as rfile:
                 content = rfile.read()
                 rendered = self.templates[category]["template"].render(created_date=created, title=title, content=content)
