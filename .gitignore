@@ -1,4 +1,9 @@
 checkout/*
+credentials.json
+client_secret.json
+
+.DS_Store
+
 #generated/*
 
 # Byte-compiled / optimized / DLL files

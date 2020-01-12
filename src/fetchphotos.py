@@ -49,6 +49,7 @@ class GooglePhotosGetter():
 
         # to keep stuff in sync we only fetch the names not currently in
         # assuming when we overwrite stuff in google photos, we use a different name
+        # @todo(zwang): should handle deletion!
         folder_name = os.path.join(target_dir, title)
         files = []
         if os.path.exists(folder_name):
@@ -77,6 +78,6 @@ class GooglePhotosGetter():
             self.get_photos(album['id'], "../generated/static/gallery")
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     photos_getter = GooglePhotosGetter()
     photos_getter.run()
-
