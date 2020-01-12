@@ -1,6 +1,6 @@
 
 ---
-title: "Emory and bigtable"
+title: "Memory and bigtable"
 date: 2019-10-28 00:23:09
 draft: true
 ---

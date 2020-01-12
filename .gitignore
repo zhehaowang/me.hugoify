@@ -3,6 +3,8 @@ credentials.json
 client_secret.json
 
 .DS_Store
+node_modules/
+package-lock.json
 
 #generated/*
 

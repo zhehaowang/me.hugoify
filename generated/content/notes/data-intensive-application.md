@@ -1,6 +1,6 @@
 
 ---
-title: "Ata intensive application"
+title: "Data intensive application"
 date: 2020-01-08 21:15:42
 draft: true
 ---

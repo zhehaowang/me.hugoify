@@ -18,6 +18,7 @@ googleAnalytics = ""
     highlightLanguages = ["cpp", "python", "bash", "javascript"]
     profilePic = "logo.png"
     favicon = "logo.png"
+    SearchOn = ""
 
 [[menu.main]]
     url = "/"
