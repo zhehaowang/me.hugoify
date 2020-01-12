@@ -9,7 +9,7 @@ googleAnalytics = ""
     author = "Zhehao Wang"
     description = "Engineer &#x1F602;  Lifelong learner &#x1F914;"
     githubUsername = "zhehaowang"
-    accent = "DarkBlue"
+    accent = "Navy"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -40,8 +40,8 @@ googleAnalytics = ""
     weight = 4
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/gallery/"
+    name = "Gallery"
     weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
