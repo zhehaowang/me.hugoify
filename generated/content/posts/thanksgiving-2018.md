@@ -1,11 +1,10 @@
 
 ---
 title: "Thanksgiving 2018"
-date: 2018-11-21 22:57:29
+date: 2018-11-20 23:18:28
 draft: true
 ---
 
-# Thanksgiving 2018
 
 11/20/2018
 

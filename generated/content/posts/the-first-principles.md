@@ -1,11 +1,10 @@
 
 ---
 title: "The first principles"
-date: 2020-01-13 22:34:25
+date: 2020-01-13 22:31:54
 draft: true
 ---
 
-# The first principles
 
 There seems layers of principles behind many arts in life.
 

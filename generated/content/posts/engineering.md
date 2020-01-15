@@ -1,11 +1,10 @@
 
 ---
-title: "Engineering"
-date: 2020-01-13 22:31:54
+title: "Recurring themes in software engineering"
+date: 2019-10-23 22:43:40
 draft: true
 ---
 
-# Recurring themes in software engineering
 
 2019 marks the end of a decade since I wrote my first line of code, and two years and a half since I became a professional software engineer.
 

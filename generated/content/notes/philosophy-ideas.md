@@ -1,11 +1,10 @@
 
 ---
-title: "Philosophy ideas"
-date: 2020-01-13 00:26:48
+title: "The great ideas of philosophy"
+date: 2019-12-29 12:34:17
 draft: true
 ---
 
-# The Great Ideas of Philosophy
 
 Questions of **Knowledge**, **Conduct**, and **Governance**.
 

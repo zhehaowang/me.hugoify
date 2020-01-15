@@ -1,11 +1,10 @@
 
 ---
-title: "Story of human language"
-date: 2019-12-23 19:02:02
+title: "The story of human language"
+date: 2019-10-13 14:27:11
 draft: true
 ---
 
-# Language
 
 Language is not the same as communication / imitation (both in the latter animals can do, but the former seems unique and genetically programmed to homo sapiens).
 

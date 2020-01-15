@@ -1,11 +1,10 @@
 
 ---
-title: "Data intensive application"
-date: 2020-01-08 21:15:42
+title: "Designing data intensive applications"
+date: 2019-06-03 23:55:16
 draft: true
 ---
 
-# Designing Data Intensive Applications
 
 # Chap 1. Reliability, scalability and maintainability
 

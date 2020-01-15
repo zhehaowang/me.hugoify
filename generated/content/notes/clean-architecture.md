@@ -5,7 +5,6 @@ date: 2020-01-08 22:00:29
 draft: true
 ---
 
-# Clean architecture
 
 # Part 1
 

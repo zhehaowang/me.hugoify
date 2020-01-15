@@ -1,11 +1,10 @@
 
 ---
 title: "Starting strength"
-date: 2019-02-16 16:46:42
+date: 2019-02-11 22:38:31
 draft: true
 ---
 
-# Starting Strength
 
 neuromuscular
 

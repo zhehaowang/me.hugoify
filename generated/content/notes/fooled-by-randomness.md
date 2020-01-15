@@ -5,7 +5,6 @@ date: 2020-01-08 21:40:24
 draft: true
 ---
 
-# Fooled by randomness
 
 Thoughts on fallibility of human knowledge by a former options trader.
 

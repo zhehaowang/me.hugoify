@@ -1,11 +1,10 @@
 
 ---
-title: "Random realizations"
-date: 2020-01-09 18:36:41
+title: "Random realizations, quotes from conversations with friends"
+date: 2019-10-23 22:43:40
 draft: true
 ---
 
-# Random realizations, quotes from conversations with friends
 
 Although we are young, and the cost of making sub-optimal choices is relatively small, but with each choice there still is a cost.
 Now that I think of it, miss the chance to go to Tsinghua / CMU / Google / ... once, we probably miss it for life.

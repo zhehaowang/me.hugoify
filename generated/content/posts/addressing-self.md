@@ -1,11 +1,10 @@
 
 ---
 title: "Addressing self"
-date: 2018-11-13 23:01:54
+date: 2018-11-10 17:24:22
 draft: true
 ---
 
-# Addressing self
 
 Nov 10, 2018
 

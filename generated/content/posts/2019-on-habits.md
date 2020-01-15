@@ -1,11 +1,10 @@
 
 ---
-title: "2019 on habits"
-date: 2019-12-29 21:56:39
+title: "On habits"
+date: 2019-12-23 18:18:46
 draft: true
 ---
 
-# On Habits
 
 ### Bookkeeping
 

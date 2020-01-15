@@ -1,11 +1,10 @@
 
 ---
 title: "Sapiens"
-date: 2019-02-25 22:58:21
+date: 2019-02-16 16:46:42
 draft: true
 ---
 
-# Sapiens
 
 ### Cognitive revolution
 

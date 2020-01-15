@@ -1,11 +1,10 @@
 
 ---
-title: "Bloomberg 2017 2018"
-date: 2020-01-13 21:13:16
+title: "Bloomberg 2017 - 2018"
+date: 2018-11-24 15:37:54
 draft: true
 ---
 
-# Bloomberg 2017 - 2018
 
 11/23/2018
 
