@@ -50,13 +50,13 @@ class Converter():
         commits = list(self.repo.iter_commits(paths=filename))
         
         if len(commits) > 0:
-            created = datetime.datetime.fromtimestamp(commits[0].authored_date)
-            last_updated = datetime.datetime.fromtimestamp(commits[-1].authored_date)
+            created = datetime.datetime.fromtimestamp(commits[-1].authored_date)
+            last_updated = datetime.datetime.fromtimestamp(commits[0].authored_date)
             return created, last_updated
         else:
             return datetime.datetime.now(), datetime.datetime.now()
 
-    def infer_filename(self, dest_folder, filename):
+    def infer_dest_filename(self, dest_folder, filename):
         # use this document's name by default
         # if the document's name is readme, substitute with folder name
         if os.path.basename(filename).strip().lower() == "readme.md":
@@ -65,6 +65,29 @@ class Converter():
         dest_file = os.path.join(dest_folder, os.path.basename(filename))
         return dest_file
 
+    def process_content(self, src_file_name, dest_file_name):
+        """reads in src_file_name, and produce title, content strings from the file
+        If a title cannot be inferred, try inferring from str dest_file_name
+        """
+        title = ""
+        content = ""
+        if src_file_name.endswith(".md"):
+            with open(src_file_name, "r") as infile:
+                cnt = 1
+                for line in infile:
+                    cnt += 1
+                    # we use the title if a "# " is found early enough
+                    if cnt < 3 and line.strip().startswith("# ") and title == "":
+                        title = line.strip().replace("# ", "").capitalize()
+                        continue
+                    content += line
+        else:
+            with open(src_file_name, "r") as infile:
+                content = infile.read()
+        if not title:
+            title = os.path.basename(dest_file_name).replace('_', ' ').replace('-', ' ').replace('.md', '').capitalize()
+        return title, content
+
     def create(self, filename):
         category = self.infer_category(filename)
         if category in self.templates:
@@ -72,10 +95,9 @@ class Converter():
             dest_folder = os.path.join(self.target_path, self.templates[category]["dest"])
             if not os.path.exists(dest_folder):
                 os.makedirs(dest_folder)
-            dest_file = self.infer_filename(dest_folder, filename)
-            title = os.path.basename(dest_file).replace('_', ' ').replace('-', ' ').replace('.md', '').capitalize()
-            with open(dest_file, "w") as wfile, open(filename, "r") as rfile:
-                content = rfile.read()
+            dest_file = self.infer_dest_filename(dest_folder, filename)
+            title, content = self.process_content(filename, dest_file)
+            with open(dest_file, "w") as wfile:
                 rendered = self.templates[category]["template"].render(created_date=created, title=title, content=content)
                 wfile.write(rendered)
                 logging.info("rendered {} from {}".format(dest_file, filename))
