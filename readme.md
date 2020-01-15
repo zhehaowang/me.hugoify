@@ -7,3 +7,7 @@ Produce a [Hugo](https://gohugo.io)/web-ready derived view of the content on [zh
 * Set up Hugo
 * Install dependencies
 * `./main.py`
+
+optionally,
+* update search index
+* update p_ google photos (require js edits for now)
