@@ -13,9 +13,12 @@ googleAnalytics = ""
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
+    
+    # padding on code highlight looks horifying
     highlight = true
-    highlightStyle = "default"
+    highlightStyle = "hybrid"
     highlightLanguages = ["cpp", "python", "bash", "javascript"]
+
     profilePic = "logo.png"
     favicon = "logo.png"
     SearchOn = "on"

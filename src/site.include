@@ -1,6 +1,9 @@
 # include these following
 essays/*.md
 book-notes/**/readme.md
+book-notes/emcpp/**
+book-notes/ecpp/**
+book-notes/estl/**
 about.md
 !.git/
 !essays/unused.md
