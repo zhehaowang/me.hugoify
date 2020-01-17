@@ -96,6 +96,45 @@ Given the availability of consts, enums, and inlines, your need for the preproce
 
 Snippet:
 ```cpp
+// prefer_const_enum_inline_to_define.m.cpp
+#include <iostream>
+#include <string>
+
+#include <header_with_static_const.h>
+
+int main() {
+    std::cout << "invoking main\n";
+    // When replacing #define with consts
+    // correct specification of const pointer and const pointed to
+    const char* name = "z";
+    const char* const name2 = "h";
+    const int* const i1 = 0;
+    int const * const i2 = 0;
+
+    // the second const does not matter
+    const char const* name3 = "e"; // duplicate 'const' declaration specifier
+    int const const * i3 = 0; // duplicate 'const' declaration specifier
+
+    // To test class member static const definitions
+    MyClass mc;
+    mc.d_obj.print();
+    std::cout << mc.d_x << "\n";
+    //const int* const addrOfStaticConst = &mc.d_x;
+    return 0;
+}
+// impl_with_static_const.cpp
+#include <header_with_static_const.h>
+
+#include <iostream>
+#include <string>
+
+const ConstObject MyClass::d_obj; // fine, invokes default ctor before main
+
+const int MyClass::d_x = 5;
+
+void ConstObject::print() const {
+    std::cout << d_c << "\n";
+}
 // header_with_static_const.h
 #ifndef INCLUDED_CONST_OBJECT
 #define INCLUDED_CONST_OBJECT
@@ -126,44 +165,5 @@ class MyClass {
 //ConstObject MyClass::d_obj; // wrong, double definition
 
 #endif
-// impl_with_static_const.cpp
-#include <header_with_static_const.h>
-
-#include <iostream>
-#include <string>
-
-const ConstObject MyClass::d_obj; // fine, invokes default ctor before main
-
-const int MyClass::d_x = 5;
-
-void ConstObject::print() const {
-    std::cout << d_c << "\n";
-}
-// prefer_const_enum_inline_to_define.m.cpp
-#include <iostream>
-#include <string>
-
-#include <header_with_static_const.h>
-
-int main() {
-    std::cout << "invoking main\n";
-    // When replacing #define with consts
-    // correct specification of const pointer and const pointed to
-    const char* name = "z";
-    const char* const name2 = "h";
-    const int* const i1 = 0;
-    int const * const i2 = 0;
-
-    // the second const does not matter
-    const char const* name3 = "e"; // duplicate 'const' declaration specifier
-    int const const * i3 = 0; // duplicate 'const' declaration specifier
-
-    // To test class member static const definitions
-    MyClass mc;
-    mc.d_obj.print();
-    std::cout << mc.d_x << "\n";
-    //const int* const addrOfStaticConst = &mc.d_x;
-    return 0;
-}
 
 ```

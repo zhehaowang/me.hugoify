@@ -94,14 +94,6 @@ Thus, to avoid using objects before they are initialized, you need to do
 
 Snippet:
 ```cpp
-// depends_on_my_class.cpp
-#include <my_class.h>
-
-DependsOnMyClass& getGlobalDependsOnMyClass() {
-    static DependsOnMyClass dependsOnMyClass(getGlobalMyClass().d_x);
-    return dependsOnMyClass;
-}
-
 // my_class.h
 #ifndef INCLUDED_MY_CLASS
 #define INCLUDED_MY_CLASS
@@ -142,6 +134,14 @@ MyClass& getGlobalMyClass();
 MyClass& getGlobalMyClass() {
     static MyClass myClass;
     return myClass;
+}
+
+// depends_on_my_class.cpp
+#include <my_class.h>
+
+DependsOnMyClass& getGlobalDependsOnMyClass() {
+    static DependsOnMyClass dependsOnMyClass(getGlobalMyClass().d_x);
+    return dependsOnMyClass;
 }
 
 // initialize_object_before_use.m.cpp

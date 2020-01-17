@@ -1,10 +1,12 @@
 
 ---
-title: "The creative habit -- twyla tharp"
+title: "The creative habit"
 date: 2020-01-16 21:04:57
 draft: true
 ---
 
+
+Twyla Tharp
 
 **Being creative is a full-time job with its daily patterns.**
 
