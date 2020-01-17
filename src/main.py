@@ -156,10 +156,10 @@ class Converter():
             current_item_num = int(m.group(1)) - 1
             with open(filename, 'r') as infile:
                 for line in infile:
-                    if line.startswith("###"):
+                    if line.startswith("### "):
                         current_item_num += 1
                         contents[current_item_num] = {
-                            "title": line.replace("###", "").strip(),
+                            "title": line.replace("### ", "").strip(),
                             "content": ""
                         }
                     else:
@@ -171,7 +171,7 @@ class Converter():
         return contents
 
     def render_effective_category(self, category, filename):
-        """load given file from effective book series notes into self.effectives
+        """load given file from one effective book series notes (chapter-level notes, individual notes, or multiple snippets file) into self.effectives
         """
         parts = filename.split('/')
         book_name = ""
