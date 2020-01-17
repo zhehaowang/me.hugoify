@@ -56,6 +56,7 @@ module.exports = function(grunt) {
             let body = "";
             let title = "unprocessed";
             if (parts.length == 3) {
+                // hugo posts style md
                 let frontMatters = parts[1].trim().split("\n");
                 for (let f in frontMatters) {
                     if (frontMatters[f].startsWith("title: ")) {
@@ -65,7 +66,15 @@ module.exports = function(grunt) {
                 }
                 body = parts[2];
             } else {
-                body = content;
+                // mds without frontMatter but leads with a #
+                let lines = content.trim().split("\n");
+                if (lines.length > 0 && lines[0].startsWith("# ")) {
+                    title = lines[0].replace(/# /gi, "");
+                    lines.shift();
+                    body = lines.join("\n");
+                } else {
+                    body = content;
+                }
             }
 
             var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(".md").s;
