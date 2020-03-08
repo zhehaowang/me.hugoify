@@ -5,10 +5,8 @@
   --dark: #000;
   --gray: #f5f5f5;
   --bubble: #131313;
-  --accent: var(--gray);
   --bg: var(--light);
   --text: var(--dark);
-  --theme: #04a763;
   --ease: cubic-bezier(.19,1,.22,1);
 }
 
@@ -167,6 +165,12 @@ main {
   padding: 0px;
 }
 
+@media screen and (max-width: 42rem) {
+  main {
+    margin: unset;
+  }
+}
+
 ul {
   list-style: none;
   -webkit-padding-start: 0;
@@ -244,7 +248,7 @@ aside h3 {
 }
 
 .article_meta {
-  padding: 10px 1.25rem 1.25rem;
+  padding: 10px 1.25rem 0.25rem;
   background: var(--bg);
   color: var(--text);
   position: relative;
@@ -278,7 +282,7 @@ aside h3 {
 
 @media screen and (min-width: 35rem) {
   .article_thumb {
-    height: 54rem;
+    height: 55rem;
   }
 }
 
@@ -300,7 +304,7 @@ aside h3 {
 }
 
 .article_showcase .article_thumb {
-  height: 27rem;
+  height: 30rem;
 }
 
 .article_showcase .article_meta {
@@ -401,7 +405,7 @@ aside h3 {
   position: relative;
   width: 1.5rem;
   height: 1.5rem;
-  background-image: url(http://localhost:55306/images/icons/copy.svg);
+  background-image: url(http://localhost:53718/images/icons/copy.svg);
   background-size: 100%;
   cursor: pointer;
 }
@@ -706,7 +710,7 @@ aside h3 {
 
 .post_next::after {
   content: "";
-  background-image: url("http://localhost:55306/images/icons/next.svg");
+  background-image: url("http://localhost:53718/images/icons/next.svg");
   background-repeat: repeat no-repeat;
   background-size: 0.8rem;
   background-position: center right;
@@ -743,11 +747,11 @@ aside h3 {
 }
 
 .pager_prev {
-  background-image: url(http://localhost:55306/images/icons/previous.svg);
+  background-image: url(http://localhost:53718/images/icons/previous.svg);
 }
 
 .pager_next {
-  background-image: url(http://localhost:55306/images/icons/next.svg);
+  background-image: url(http://localhost:53718/images/icons/next.svg);
 }
 
 .pager span {
@@ -806,7 +810,6 @@ aside h3 {
 
 .wrap {
   max-width: 1200px;
-  width: 105rem;
 }
 
 .wrap, .wrap {
@@ -879,7 +882,7 @@ aside h3 {
 
 .never {
   min-height: 60vh;
-  background: url("http://localhost:55306/images/sitting.svg");
+  background: url("http://localhost:53718/images/sitting.svg");
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: contain;
