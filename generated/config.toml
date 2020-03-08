@@ -4,6 +4,7 @@ title = "Zhehao Wang"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+assetDir = "assets"
 
 [params]
     author = "Zhehao Wang"

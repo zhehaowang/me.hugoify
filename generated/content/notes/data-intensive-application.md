@@ -80,7 +80,7 @@ Data intensive vs compute intensive
   * Schema flexibility, better performance due to locality, closer to the data structure of the application for document databases.
   * Better support for join, many-to-one and many-to-many for relationship databases.
   * Relational can employ the technique of shredding (splitting a document-like structure into multiple tables linked by a foreign key) to achieve a document-like structure, which is cumbersome to schema and complicates application code.
-  * Document cannot refer directly to a nested item within a document, instead you say the 2nd item in the list of positions for user 256 (like an access path).
+  * Document cannot refer directly to a nested item within a document, instead you say the 2nd item in the list of positions for user 256 (like an access path). (_?_)
   * To model many-to-many in document, you can do denormalization but the application code need to do additional work to keep denormalized data consistent.
 
 * Schema-on-read (the reading application interprets / expects certain schema, like runtime type checking) and schema-on-write (the database enforcing some schema upon writing data, like static type checking in a compiled language). In general there is no right answer in terms of which is preferable. The difference is particularly noticeable when performing a schema change. Changing application code or migrating DB.
@@ -91,13 +91,13 @@ Data intensive vs compute intensive
 
 * Higher level query languages like SQL can be implemented as a pipeline of MapReduce operations, and there is nothing that constraints a SQL query to run on a single machine.
 
-* Graph-like data models (social graph, web graph, road networks, etc: where nodes are homogeneous; E.g. Facebook's social graph can have nodes as people, locations, events, etc)
+* Graph-like data models (social graph, web graph, road networks, etc: where nodes are homogeneous (_?_); E.g. Facebook's social graph can have nodes as people, locations, events, etc)
   * Property graphs
     * Each node has a unique_id, incoming_vertices, outgoing_vertices, and a collection of key-value pairs
     * Each vertice has a unique_id, head_vertex, tail_vertex, label, and a collection of key-value pairs
     * Can store flexible information and good for extension
     * Described in a relational schema it looks like the following
-```
+```sql
 CREATE TABLE vertices (
   vertex_id   integer PRIMARY KEY,
   properties  json
@@ -112,10 +112,10 @@ CREATE TABLE edges (
 CREATE INDEX edge_tails ON edges (tail_vertex);
 CREATE INDEX edge_heads ON edges (head_vertex);
 
-; any can connect with any; with the indexes we can efficiently find head and
-; tail edges of a given vertex thus traversing the graph
+-- any can connect with any; with the indexes we can efficiently find head and
+-- tail edges of a given vertex thus traversing the graph
 
-; we then insert entries like (in Cypher graph query language)
+-- we then insert entries like (in Cypher graph query language)
 
 CREATE
   (USA:location    {name:'United States', type:'country'}),
@@ -126,25 +126,25 @@ CREATE
   (Lucy)   -[:BORN_IN]-> (USA),
   (Lucy)   -[:LIVE_IN]-> (France);
 
-; and the query of all people emigrated to Europe from the US looks like
+-- and the query of all people emigrated to Europe from the US looks like
 MATCH
   (person) -[:BORN_IN]-> () -[:WITHIN*0]-> (us:location {name:'United States'}),
   (person) -[:LIVE_IN]-> () -[:WITHIN*0]-> (eu:location {name:'Europe'})
 RETURN
   person.name
 
-; find any vertex (call it person) that meets both conditions:
-;   has an outgoing BORN_IN edge to some vertex, from there you can follow any
-;   number of WITHIN edges until reaching a node of type location whose name
-;   property is "United States". Similar for the "Europe" analysis.
-;
-; the query optimizer then chooses the optimal way to execute this query (from
-; all persons, or the two regions, e.g. depending on where you have index)
+-- find any vertex (call it person) that meets both conditions:
+--   has an outgoing BORN_IN edge to some vertex, from there you can follow any
+--   number of WITHIN edges until reaching a node of type location whose name
+--   property is "United States". Similar for the "Europe" analysis.
+
+-- the query optimizer then chooses the optimal way to execute this query (from
+-- all persons, or the two regions, e.g. depending on where you have index)
 ```
     * Although it's possible to put a graph database in a relational database, supporting queries in such can be difficult as the number of joins is not known beforehand. (SQL supports `WITH RECURSIVE`, but is very clumsy)
   * Triple-store graph model
     * all information stored in three-part statement `(subject, predicate, object)`, where an object can be a value or another node. In case of value this means a property, in case of another node this means an edge.
-```
+```sql
 (Turtle/N3)
 _:France a         :location;
          :name     :"France";
@@ -153,7 +153,7 @@ _:Lucy   a         :person;
          :name     :"Lucy";
          :live_in _:France.
 ...
-; this can alternatively be expressed in XML
+-- this can alternatively be expressed in XML
 ```
   * Semantic web (independent from triple-store) proposes a Resource Description Framework under which websites publish data in a consistent format thus allowing different websites to be automatically combined into a web of data; like a graph database of the entire web.
     * SPARQL query language operates on trip-stores using the RDF data model. Cypher's pattern matching above is borrowed from SPARQL. (difference being triple-store does not differentiate properties and edges thus both can be queried using the same syntax)
@@ -164,7 +164,7 @@ _:Lucy   a         :person;
 * Datalog. Foundation for later query languages.
   * Similar data model as triple store, generalized to `predicate(subject, object)`. We define rules that depend on other rules or themselves.
 ```
-Datalog / Prolog
+(Datalog / Prolog)
 within_recursive(Location, Name) :- name(Location, Name).
 within_recursive(Location, Name) :- within(Location, via),
                                     within_recursive(via, Name).
@@ -188,7 +188,9 @@ Each model comes with their own sets of query languages, SQL, MapReduce, Cypher,
 
 Relational, document and graph are all widely used today, and one model can be emulated using another though the result is often awkward.
 
-Some ongoing research about data models try to find suitable ones for sequence similarity searches (genome data); PBs amount of data (particle physics); and full-text search indexes. 
+Some ongoing research about data models try to find suitable ones for sequence similarity searches (genome data); PBs amount of data (particle physics); and full-text search indexes.
+
+(_How would we describe BigTable or Cassandra's data model? Sparse key-value stores? Mostly similar to a document store with keys, column families and sparse columns, but without built-in join or foreign keys_)
 
 # Chap 3. Storage and retrieval
 
@@ -207,7 +209,7 @@ Thus databases typically let the application developer choose what to index on s
 A simple approach could be a log-structured storage where each record is `<key, value>` and a hash index `<hash(key), byte_offset_into_log>` is stored in main memory.
 Bitcask is one example does this, and is well suited for cases where key cardinality is low (fits in memory) but updated often (hence requiring fast writes).
 
-* To avoid only growing disk usage, we can chunk the log into segments of a certain size and when closing off on writing one segment we perform **compaction** where we only keep the most recent update to each key. We can also merge several segments together when performing compaction. While compaction is being performed we can continue to serve read and write requests using the old segment files. (compaction never modifies an existing segment files: the result is written to a new segment files). After compaction is done we switch read and write requests to using the newly produced segment file, and delete the old segments.
+* To avoid only growing disk usage, we can chunk the log into segments of a certain size and when closing off on writing one segment we perform **compaction** where we only keep the most recent update to each key. We can also merge several segments together when performing compaction. While compaction is being performed we can continue to serve read and write requests using the old segment files. (compaction never modifies an existing segment file: the result is written to a new segment file). After compaction is done we switch read and write requests to using the newly produced segment file, and delete the old segments.
 
 * With a hash index each segment now needs its own hashmap index in memory, and when looking for a key we first search in the hashmap of the most recent segment, and if not found we go to the hashmap of the next most recent segment.
 

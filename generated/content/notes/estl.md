@@ -24,7 +24,7 @@ draft: true
 * [Use swap trick to trim excessive capacity](/effectives/estl/it17/)
 * [Avoid `vector<bool>`](/effectives/estl/it18/)
 * [(Sorted) Associative containers](/effectives/estl/it19/)
-* [Specify comparison types for associative containers of pointers](/effectives/estl/it20/)
+* [Understand the difference between equality and equivalence](/effectives/estl/it20/)
 * [Always have comparison functions return false for equal values](/effectives/estl/it21/)
 * [Avoid in-place key modification in set and multiset](/effectives/estl/it22/)
 * [Consider replacing associative containers with sorted vectors](/effectives/estl/it23/)

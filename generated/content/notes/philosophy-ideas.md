@@ -275,7 +275,7 @@ Thrasymachus: strong should prey on the weak.
 Glaucon: what is goodness? Three classes
 * Things that are good in and of themselves. Harmless pleasures.
 * Things that are good in themselves but also for the consequences that arise from such good. Knowledge, health.
-* Pursued for the same of their results. Gymnastics, money making.
+* Pursued for the sake of their results. Gymnastics, money making.
 
 Where is justice placed?
 Socrates: the first, where things are pursued for their intrinsic value, not for consequences.
@@ -320,6 +320,8 @@ We are like charioteers standing on two horses, a good horse and a vicious one, 
 A will capable of resolving us to follow the right course.
 The will itself cannot decide what the right course is, desire knows only one course: to fulfill itself.
 How then do we discover the right course: through rational power. Supremacy of reason in determining what we ought to do. Reason as shown in mathematical proportion, harmony, balance. The guide and goal of life. Avoid excess.
+
+Until kings become philosophers and philosophers become kings, there would be no justice in the world.
 
 The Pythagorean numerological balance is the resemblance of truth.
 
@@ -368,6 +370,8 @@ Similarly in mathematics and philosophy.
 Hellenism bequeathed this pursuit to later societies.
 
 ### Aristotle on the knowable
+
+The Lyceum.
 
 Aristotle has so much original, hence so much criticism from those who came after.
 
@@ -472,7 +476,7 @@ Discussed in the Nicomachean Ethics and the Eudemian Ethics.
 
 Friendship is first inspected in the two works of Ethics.
 * Friendship can be formed for pleasure, including sensual pleasure, which Aristotle is not against. These pleasure have an ephemeral feature about them.
-* Friendship can be based on utility. A and B are useful for each other. These, too, are often ephemeral.
+* Friendship can be based on utility (utilitarian). A and B are useful for each other. These, too, are often ephemeral.
 These friendships are self-regarding, selfishly motivated
 * There is also friendship formed on Teleia-philia ("completed / perfected" friendship). Shared by the friends is a set of morals and values. What A wants for B and is good for B for the sake of B. A constructive relationship that is preserved and celebrated. Friendship conduced to goodness / moral excellence itself, and usually lasts a lifetime. Aristotle considers this kind of friendship to be not common.
 
@@ -484,7 +488,7 @@ The inequality between humans and gods.
 
 An example, an audience with good taste enjoying a performance. The audience does not have the training of the performers, but there is mutual respect and each understands what is best and good in the other, for the other in the other's sake.
 
-Then you could form a polis without people being morally equal.
+Then you could form a polis without all people being morally equal.
 
 What is virtue?
 It's a disposition / inclination to act towards certain ends and avoid other ends.
@@ -512,3 +516,741 @@ A productive life involves familial and political duties and obligations.
 
 Aristotle displays a suspiciousness towards radical democratic forms of rule.
 His ideal model could be that a constitutional monarchy, where the rule of law is determinated, and those who determine the law function as friends.
+
+### Aristotle on the perfect life
+
+Discussed in the Nicomachean Ethics and the Eudemian Ethics.
+
+Episteme, the intellectual virtues by which we are able to comprehend the cause of things.
+
+The perfect life, one that guided by scientific, systematic knowledge.
+
+We are artistic objects of self-defining, self-creating nature.
+To get a work of art ever more complete.
+
+Make the right kind of choices, based on good reasons.
+Good reasons for acting, our actions not merely reactions.
+
+Sound and defensible reasons for action is a form of wisdom and knowledge.
+Prudential knowledge.
+Philosophically wise -> Sophia 
+Practically wise -> Phronesis, making good choices
+
+The right life contemplates the best, what is worth thinking about.
+By contemplating on the stock market, you may be lowering your thoughts to the transient, episodic and culturally defined.
+
+Why should one aspire to moral excellence?
+Why should one be courageous and temperate?
+
+A regress of questions until it makes no sense to ask why that:
+* Why see a doctor?
+* Why you want to be in health?
+* Why you want to hold on to your job?
+* ...
+* Ultimately everything we do we do for happiness - **eudaimonia**.
+
+Not in a hedonistic sense.
+What does Aristotle mean by eudaimonia?
+Not peak emotional experience, or a transient state, but a mode of **flourishing life**, something unique for rational beings and beyond basic instincts.
+
+What does eudaimonia entail?
+It's an open question and the two Ethics offer different alternatives.
+
+To lose eudaimonia is like ridding a being of its defining attribute: fish out of water, birds cannot fly, and man without his rationality / contemplating on the best of things.
+
+What you do you do for the sheer fulfillment arising from doing it, is like the life on the isle of the blessed, that of the Olympians.
+Like children at play.
+One that approximates eudaimonia.
+
+This contemplative life should not be a life of inactivity or isolation, as we are by nature social and political.
+
+Fitness - harmonia <-> discordia
+Music - melodia
+
+Aristotle sees the rule of law as the rule of reason, laws based on punishment are tyrannical laws.
+Good laws calls upon us to do things that make us better, not stop us from doing things for fear of punishment; we see in the law something we see in good friends.
+
+Are the life of the law giver and the disinterested contemplative wise man competing (activity and decisive action / contemplation and study)?
+That's the dillema faced by all, who weigh the contemplation of choices between the first things and making the world conform to one's best judgments.
+
+### Rome, Stoics, Rule of Law
+
+Aristotle left Athens after the death of Alexander.
+The city would not sin against philosophy a second time.
+
+Aristotle and Plato had strong influence on Stoic thoughts.
+Rule of law, reason and rationality.
+
+Zeno, father of Stoicism, 300BC. Epicurus, father of Epicureanism.
+Early, middle (Epictetus) and late (Seneca, Marcus Aurelius) Stoicism.
+Owing much to the Socratic / Platonic / Aristotelian school.
+
+Stoic ontology is physicalistic in a subtle way.
+Plato, for something to exist it must be able to act or be acted upon.
+Non-physical entities (such as space, time) must be accounted for in discussion of physical reality.
+Individual man has ontological meaning, but not the collection mankind.
+
+**A law-governed cosmos.**
+Reality is governed by law, human affairs and daily life should be governed by law, the hegemonicon of reason that regulates life.
+Quite different from a tyrannical law. Law is what a rational being would find justifiable, similar to Aristotle's view.
+
+Wisdom and knowledge are good intrinsically.
+Wealth, good breeding are not intrinsically good but may be utilitarian or useless.
+
+Nature of law and morals, rational, proportionate, unprejudiced.
+Power of abstraction and comprehension => Liberty.
+Liberty is not anarchy, but conforming one's actions to a principle, not dictatorial instincts.
+
+**Apatheia**, (not quite apathetic / morose) an active, systematic and disciplined principle of not to invest importance in things at the emotional level.
+
+Mucius Scaevola, tried to assassinate an enemy Etruscan king, and upon failure, told the bravery and willingness to sacrifice of Romans, and stretched his right arm to be burned.
+
+_"Never say of anything that I've lost it, only that I've given it back."_
+-- Epictetus
+
+Cicero was a critic of Stoicism, but his work on law incorporated much essential to Stoic teaching.
+
+Evil is to go against your nature, and the nature of men being rationality.
+Irrationality is an evil.
+
+Epicureanism may have left the impression of _"eat drink and be merry for tomorrow you shall die"_, though the actual teaching of Epicurus was conservative in terms of social life and quite contrary, it's rather don't need something so much that its absence causes pain and suffering and quite close to Apatheia.
+
+Stoicism requires us participate in the affairs of the state, to be law givers, interact with the public world, Epicureanism would have us remove ourselves from the polis or politics, imagine living in the suburbs with a close group of friends.
+Epicureanism would reduce the likelihood of pain and suffering, defer death as long as one can.
+Epicureanism on friendship, a form of self defense against the slings and arrows of misfortune.
+Atomic materialistic, our choices are our own to make, liberated from abstract stricture Stoicism imposed.
+
+Stoicism guides Roman education and Roman sensibilities.
+Neither Stoicism nor Epicureanism would agree with the decadence of late Roman Empire.
+
+### Stocism to Christianity
+
+Philo of Alexandria, contemporary of Jesus, whose work connects Old Testament text with Greek philosophy.
+
+Christianity is not merely a development out of Judaism.
+
+Early Christian teaching was intellectually rich and convincing.
+Saint Paul's writing drew from Stoic teaching.
+A belief being a natural inclination.
+There should not be unbridgeable gap between the teachings of faith and teachings of (pagan) philosophy.
+
+Stoic philosophy creates this bridge.
+
+Contrary to the Christian / Judaism / Islamic God, the "God" of Stoics is not a personal being concerned with human welfare, but a powerful divine fire of sorts working through physical and material modes of operations.
+This divine Fire, however, is rational and immortal in its nature.
+
+Arguments for universal brotherhood and wrongfulness of cruelty towards slaves are based off of Stoic notion of human rationality.
+Slaves are of same elements that made up any rational human being (same Oikos).
+
+Jews and Christians deny the materiality of this God.
+This is reconciled by God becoming incarnated in the form of a human being who will teach lessons and guide the distracted human race to be redeemed through his sacrifice.
+
+The immaterial incarnating himself materially, into what Stoics regarded as Logos (natural law).
+Consult the ten commandments to comprehend what God demands of us.
+
+On a Christian account no one is of greater moral worth than the other, whatever their socio-economic status, titles and achievements.
+This might have a substantial effect on people who are oppressed, controlled, dismissed because of their birth, language, skills and position in the world.
+None of that counts for anything fundamentally, you are all children of a providential God, who has created the cosmos, and it is good.
+An ordered, reasonable cosmos fitting for the language-using ordered, rational being which reflects in its rationality nothing less than the image of God himself.
+
+Early Christian fathers are Neo-Platoists and reflect much of Platonic teaching.
+
+This brings more problem:
+* Given this providential God, what about all the evil in the world? War and crimes, fall of Rome? How come things are in the state they are in, us being the rational creatures but bogged down in ignorance and pettiness?
+* If there is this God whose will is unopposable, then my fate is determined and God knows everything I'm going to do with my life. Is this an echo of the Greek sense of fate? A fatalistic doctrine?
+
+The Stoic Apatheia becomes the reconciliation between oneself and the will of God.
+A willingness to die for what he believes in and a willingness to recognize the fate of the flesh are distinct from the fate of the soul.
+
+Anti-intellectualism in early Christianity.
+What is required for one to live the right sort of life, is nothing more than the teaching of Christ.
+We need not speculate any longer on the meaning of all things.
+
+As these were the teachings of Jesus Christ, they are the last words on all things true, and coming after the pagan philosophies, they were not available to them who did not have the benefit of Jesus Christ.
+All of their philosophy was a distraction we can safely move past.
+Rome is not falling for its lack of philosophical teaching, and Christianity has to base off of something more resistant to change, on truths that are not mere productions of philosophy but creation of divinity, made available to us by the Grace of God.
+
+Not an anti-intellectualism with a sneer, but that of an enlightened group towards a less enlightened community, the former saying we can have patience with them and understand the mistakes they make, and we are under no obligation to repeat their modes of thoughts or conduct.
+
+There was a bridge from Stoicism to Christianity, once you got to the side of a Christian, to a considerable extent, philosophy was left on the other side, for better or worse.
+
+### Roman Law
+
+Ancient Greek law is highly developed, nonetheless if there is a contribution the Roman world made to civilization and the history of ideas (acknowledging its debts to Greek law), that contribution is Roman law.
+For its development, precision, refinement, promulgation.
+
+Keystone in western civilization.
+Life of freedom under the governance of the law.
+
+12 tables of Rome, Romans rumored to take counsel from Solon in Athens.
+
+Cicero on Laws.
+What is the essence of law?
+
+There seem to be certain universal precepts that are honored without exception across different jurisdictions.
+Cicero calls these precepts the law of nations / peoples.
+The explanation Cicero offers for this universality is that it arises from something within human nature itself: something essential to the rational being.
+
+Later called, **the natural law**, and associated with Thomas Aquinas.
+
+_"Ignorance of the law excuses no one."_
+Not to know this much is part of being a defective being.
+
+Aristotle also describes the universality of core principles.
+He uses Sophocles's Antigone and Creon to illustrate this.
+
+The law of Rome lived on to the conquering barbarians, e.g. Visigoths.
+
+The Institutes of Justinian. The Justinian Code.
+_"The law of nature is a law instilled by nature, in all creatures."_
+Stoicism influence.
+
+Stocism and Aristotle would both reject that there is a side of multiculturalism that casts certain people to be fundamentally different from other people that the two can hardly make sense to each other.
+Fundamental unifying force according to which we have a shared psychology and a common humanity, which the law appeals to.
+
+There is a great level of heterogeneity between different culture, and Rome was not convinced that level of heterogeneity rises to rationality itself, and therefore of all people, whatever their customs be, are fitful for the rule of law, and can be brought up to be worthy of the rule of law.
+
+The debts of British Common Law, American Constitution, Napoleonic Codes, etc to the Roman law are apparent.
+Our conceptions of justice, liberty, the dignity of the individual at least when the individual appears before the bars, are developments of a Greek philosophical foundation and Roman lawyers.
+
+An orderly process in which a disinterested judge can weigh evidence, examine claimants and arrive at a judgment that is conformable not to the popular will but to reason and reasonableness.
+
+### Augustine on Human Nature
+
+St Augustine (354 - 430), the City of God, Confessions (what changed him, the sources of his confusion and his salvation in faith).
+
+Laid the philosophical foundation for much of Christianity.
+Studied Cicero. Professor of rhetoric at the imperial court in Milan, contemporary of St Ambrose.
+
+Reflecting on the disciplined anti-intellectualism of early Christians: being skeptical about the ancient pagan's work on philosophy being the right guide, as he already has the right guide: the life and teaching of Jesus Christ.
+
+The likelihood of success of a faith is greatly reduced if it has officially anti-intellectual attitudes.
+A properous religion is usually promulgated by teaching, a set of practices performed by the intellectuals schooled in the way of the world.
+
+Augustine recovers the philosophical wisdom of the ancient, and uses it to fortify the teachings of the church.
+
+Ascent towards knowledge is impelled by a sincere love of God allowing one to reach heights otherwise unreachable.
+True wisdom is nothing but fear of God.
+
+Augustinian solution to the problems of evil, if God is all-loving, omniscient and omnipotent; if there is no free will, how can I be held accountable for what I do.
+
+How do you know about God?
+In most forms we know from experience. But having accepted God is immaterial, how can God be known to exist epistemologically at all?
+Augustine takes a dialectical approach not unlike Plato's Meno.
+
+You can perceive a square, but not a triliagon (thousand-sided), but you can conceive of (understand) one.
+You are capable of knowing by conception, what you cannot know by perception.
+And you can conceive of God although not perceive one.
+
+### Islam
+
+632AD, Mohammad, Quran.
+Quran, though believed to be unchanged since conception (product of God), did evolve over time (excavation in Yemen).
+
+The Prophet says each verse in the Quran has 7 meanings, the first is literal, the last is only known to God.
+
+Islamic faith is at once a culture, an ethics, a mode of philosophical inquiry and a commitment to a reflective life.
+That there are those who would fashion its teaching into hate and destruction is a painful development in recent history, making it difficult to evaluate the tradition itself and the respect it earned over the course of centuries.
+
+The west may not have been able to recollect the Aristotelian and Platonic canon, without the work of Islamic scholars 10th C and onwards.
+
+We are inclined to think 650 - 850 as Dark Age, because we see very little by way of philosophical development, critical thinking or originality, those produced by thought, argument, discourse and recorded in text.
+
+The eastern world saw development, Byzantine preserved and promulgated much work from classical antiquity, and the Islamic world carried this on.
+The early Islamic scholars put an Islamic spin on classical western political, natural scientific and philosophical writings. Inspired from the teachings of the Prophet.
+
+Islamic philosophical inquiries in 10th, 11th and 12th C.
+Al Farabi, reconcile Platonic and Aristotelian thought with the teachings of the Prophet.
+Avicenna, commentates on Aristotle Metaphysics. A means to demystify the natural world.
+
+Eastern medicine traces back to Hipprocratic naturalistic / scientific approach.
+Western medicine of the same time regards disease and disorders as symbols of sins.
+
+The conquest of Islam enrolled the Islamic world in Greek classroom.
+
+How does a religion solidify its position?
+By developing an official set of canon and teachings that constitutes the way things are.
+
+The medieval view on the world we live in is that ultimately it's a metaphor for another world eternal and changeless.
+
+The greatest threat to the continuation of the great debate (on knowledge, conduct and governance) is **orthodoxy** (the right way to see things such that any other way is wrong): e.g. at the end of the day, faith is all that matters.
+The debate becomes an insult to the faithful and the faith.
+Too much philosophy weakens the faith.
+
+What Islam achieved (or the challenge of Islam guaranteed), though it did not set out to do this, was that the long debate would be revived, that there is more than one book to consult, more than one set of prophecies and more than one prophet who was graced with the words of God.
+
+The scholarly and contemplative life that the Quran requires of the faithful, is a life compatible with the long debate.
+
+### Secular knowledge, the idea of university
+
+800AD, Charlemagne, Holy Roman Empire.
+Civic duties, rights of the (poor) people, promote teaching, reduce illiteracy, bring in teachers from England and Ireland, preservation of classical scholarship, Christianization.
+Divine right of kings, court language Latin.
+
+Alcuin, Latinist, Classicist, head of palace school, brought literacy to European clergy, abbey schools.
+
+Seven liberal arts, Hugo of St Victor.
+Initially the trivium: grammar, rhetoric and logic.
+Then the quadrivium: arithmetic, music, geometry, astronomy.
+
+Universitas, initially means a guild of students.
+Cathedral of Paris abbey school, taught seven liberal arts.
+
+University and the contemplative life.
+The university back in the days had its practical functions, laws, rhetorics, grammar, medicine (somewhat similar to earlier trade schools in Bologna, Italy), but also a different set of scholarly objectives: lectures, debate on ideas and philosophical introspection.
+
+University of Oxford.
+
+The place that invents the methods of invention.
+
+University, gothic churches, chivalry.
+
+Chivalric knight as a secular priest, one who does God's bidding.
+Politeness his strength, reserved and complete control of his emotions.
+The only insult is an insult to honor.
+Chivalry is a great civilizing influences in the history of western civilization.
+
+### The reappearance of experimental science
+
+Renaissance.
+What was it that once was alive then died and reborn in Florence 14th Century.
+Textbook's claim of classical ideals of ancient Greece and Roman is unsatisfying.
+There was profound differences between Hellenic and Roman civilization and Florence in the 14th Century.
+
+Rebirth of learning and classical thoughts of Plato / Aristotle is found more in Islamic and Greek scholars of 11th Century.
+
+Abelard, Heloise, Sic et Non, revival of the philosophical program (on metaphysics, theology, ethics. Radical nominalism, universals are nothing but class names; radical realism, universals must be real as there otherwise can't be individuals that possess the relative attributes.).
+
+Revival of experimental science.
+Scientific achievements of the Hellenic world. Aristotle, Hippocrates, Theodorus of Samos, etc, are no stranger to sciences.
+
+Robert Grosseteste, on Aristotle's ethics and physics, created an interest in science at Oxford.
+Roger Bacon and experimental science, Opus Majus.
+
+Scholasticism attempts to reconcile the Christian doctrines and Aristotelian logic.
+The scientific inquiry becomes a mode by which we know God.
+It's an obligation on the Christian conscience to know God, and to know God is to know God through his works, leading to scientific and naturalistic inquiries of nature.
+Also an inquiry into our nature, because by way of imago dei, to know oneself is to know something of God.
+
+Thomas Aquinas. Christian faith and the facts of natural science can't be in conflict as both reach the truth about the same creation.
+
+Opus Majus.
+_"I now wish to unfold the principles of experimental science, since without experience nothing can be sufficiently known. For there are two modes of acquiring knowledge, namely by reasoning and experience. Reasoning draws a conclusion and makes us grant the conclusion, but does not make the conclusion certain, nor does it remove doubt so that the mind may rest on the intuition of truth, unless the mind discovers it by the path of experience."_
+
+Experimentation. Systematic, discplined observation, under conditions you have more or less control, so you are certain what you are looking at.
+Roger Bacon's experiments includes decomposition of light into prismatic colors and making spectacles.
+He comments on the sin of ignorance and the need for the clergy to be scientifically informed.
+
+What's more important than finding, is the method of finding itself.
+
+Dun Scotus, drawing generality from sensory observations, like a frequentist probability approach.
+
+The labors of medieval scholarship, particularly within the context of the university, the corpus of scholastic teaching and thought, methodology, criticism and analysis will revive the tradition of the west.
+
+Every age is confident in its perspective being the "modern" perspective.
+When we get confident in our science and religion, that we have everything nailed down, move in front of a mirror and think "I may be hopelessly wrong", and in that, we may very well be right.
+
+### Scholasticism and the theory of natural law
+
+Thomas Aquinas, 13th Century, Doctor of the Church. Scholastic philosophy.
+Catholic philosophy and natural law, regards Aristotle as "the philosopher".
+
+Law as the expression of the rational order itself.
+
+Summa Theologica. Like Sic et Non, begins with a question and presents the for and against.
+
+His position on human nature: man is a composite of body and soul (hylomorphism).
+On knowledge: differentiate the human and the divine intellect.
+The human intellect functions as a whole.
+
+Freedom of the will. If one can't choose reward and to avoid punishment, then reward and punishment would not work at all.
+Man judges on the basis of the reason, apprehending what should be done. Upon which lies his basis on law.
+
+Law is a rule and measure of acts whereby man is induced to act. The rule's first principle is reason.
+Consistent with Aristotle's position on the generality of human nature.
+Based on this nature, what kind of rule of law is right for entities of this kind?
+
+Aquinas found Aristotle's treatise on virtue (episteme) lacking in the central Christian mission, to know the divine essence of God.
+
+Salvation was not something Aristotelian Ethics need to do with, but Thomas Aquinas's work had to: the Christian sense of **charity**, sharing, sympathy, forgiving, exercising restraint and **faith**.
+
+The problem of conduct to Thomas Aquinas is reconciliation with the eternal law.
+To know God, love God, and become worthy of God's presence in the next life, none of these would be in Aristotle's teaching.
+
+**Natural law theory** (similar to Aristotle, Cicero and Roman law):
+_"The law is an ordinance of reason promulgated by one who has responsibility for the good of the community."_
+
+Law appeals to the rational side of our essential nature, not a set of mechanical constraint.
+Law is natural to creatures of a certain kind.
+The right and just law demands what a rational being would demand of himself were there not competing influences.
+
+The culprit is desire.
+The pleasures of the moment temporarily trumps the rule of reason.
+
+Responsibilities of parenthood, to the church, desire good and shun evil.
+
+We develop the moral and intellectual virtues by study and contemplation.
+We also must develop theological virtues so that the form of life we live matches up properly with the life of Jesus, one abundant in charity and the epitome of faith and divine providence that gave all hope to an eternal future that would cancel out the frustrations and disappointments of earthly life, and reward us for the commitment and devotion that we have made during those years of earthly life.
+
+Thomas Aquinas's life turned away from writing. An examined life that found words incapable of expressing truths inherently known by the grace of God.
+
+### The Renaissance - was there one?
+
+Florence in the 1400s.
+Feudal world to urban lives.
+
+Alberti on architecture.
+What it is about a city that makes it the right place to live: a place where we (organic and reasonable beings) learn lessons and realize possibilities.
+Isolation of classes cemented by architectural division.
+
+Pope Nicholas V. The Papacy became a center of Greek thought.
+
+Bruni. History of Florence. Biographies of Aristotle, Cicero, Dante and Petrarch.
+
+Petrarch. Letters of Cicero. Skeptical towards the ancient philosophers. Not quite recovering the ancient perspective.
+
+Dante. Beatrice. Vita Nuova. to write of her as never before had been written of a woman.
+Perfective love which he found in Scholastic philosophy.
+The Divine Comedy. The last great Romance of high medieval.
+
+Florentines thought of themselves as recovering the lost world view of the Athenian and Romans, which they thought devoted to humanizing and humanistic arts, centered around human nature and what was right for it.
+Music, statue, architecture, poetry, song, drama, the secular life.
+Humanists, humanistic studies.
+
+School of Athens. Raphael, the secular knowledge. Medieval world view.
+
+An age that looks in both directions at the same time.
+
+Martin Luther, Bible translation into German. The rejection of Scholastic Roman Catholic Church and promotion of Evangelical Christianity.
+Reformation of the pious life. Condemn Rome, try the Pope, reject his authority.
+
+Erasmus. In Praise of Folly. Wrote with contempt against church's practices and stands.
+
+The renaissance conception of virtue, compared with Aristotle's notion, is more external and publicly observable, e.g. patronage to artists.
+There was no lack of patrons of arts and scholarly studies, the Medicis, Cosimo de Medici.
+
+Renaissance produced no philosophers of abiding significance.
+There were gifted teachers and translators, but not the defining feature of the Hellenic world: its philosophical power and originality of philosophy.
+No Greek pagan's work was needed, to tell one how to live one's life.
+
+### Witch prosecutions
+
+Witch hunts of 1400s - 1700s does reflect the intellectual ethos of a period.
+Witches were burnt well into times of scientific development, of Descartes, Newton and Galileo.
+
+Every age has its witches, as well as a theory that confirms the fact that the targeted are the right ones.
+Laws have long dealt with witches and witchcraft, and old ideas have great staying power when they play into our most cherished prejudices.
+
+White witchery.
+Ancient Roman Law prosecuted witches responsible for death of cattles, etc, who are judged based on the damage done, not about the sources of the power, just the act and its consequences.
+
+Christian morals praise and blame are reserved for the actions one has control over. (Emphasis on moral freedom.)
+Mens rea, intention to commit a crime: the mind itself must have been corrupted.
+
+Power above nature has two sources, the God and the devil.
+If the source of the witch's supernatural power is the devil, then it matters not what she does is minute or colossal, or for good or for evil.
+
+In some Medieval courts, the defendant could choose trial, ordeal or compurgation (a person would be acquitted if X number of persons swear to God his innocence).
+Not so for witch trials. The witch may have an advocate, who may face excommunication for defending the witch.
+
+* The accusatorial procedure. Court acts on accusation. Defendant face accusers.
+* The inquisitorial procedure. The court is actively involved in gathering evidence and investigating facts about the case (non-adversarial).
+
+Malleus Maleficarum, treatise on witchcraft and demonology, claims to say there is no witchcraft is heresy.
+Evidence includes
+* tear test: not weeping upon hearing Bible verses that would make a good Christian weep, like Mary's love for his dying son.
+* The floatation test: float the witch on blessed water. Sink: innocent. Float: rejected by the water and guilty.
+* The pricking test: pricking the body to find where the devil left his mark.
+
+We should realize how easily wrong-headed theory gaining support from undeveloped science can wreak misery and shame.
+We must be careful with our theories.
+
+### Francis Bacon and Authority of Experience
+
+18th Century looked upon the science of Bacon and Newton in 17th Century as the source of their enlightenment.
+
+Bacon was Lord Chancellor, later dismissed on bribery charge. A stylish writer. Moral and juridical essayist.
+His time, the Elizabethan Age, was an expansionist and prosperous period. The queen was a patron of explorers and scientists.
+Rival of Edward Coke. Common Law of England.
+
+Bacon rejected the proposition that because an idea has been around for a long time, it somehow has proved itself.
+Challenge of orthodoxies.
+
+**Novum Organum** (the new method) of Bacon that has never been tried before: method of invention and discovery by experience. Experimental science.
+Disciplined and systematic observations compiled and stored into "the table of discovery".
+Pursuit of knowledge through the guide of experience, not the authority of texts. New epistemological view.
+
+His view moved on from Aristotle and the ancient world.
+
+Two kinds of experimental work,
+* Experimenta lucifera. Light giving. Uncover the causal relationship in the natural world. _"Whatever deserves to exist, deserves to be known"_. No realm of inquiry is ruled out a priori. Create order out of chaos. Observe what there is. Modern times sometimes use "Baconian fact gathering" negatively, like directionless experiments.
+* Experimenta fructifera. Fruit-bearing experiments. Bacon was not an impressive experimentalist himself.
+
+Inspired from Bacon, Popper and falsifiability to assess scientific theory. No number of confirmation will confirm a universal law. Falsification is proposed instead of verification of universal laws.
+
+Operations of the mind. The philosophy of humanity. Psychology.
+In moral thought, ethics, civics Bacon's work followed the naturalist tradition of Aristotle. Man in the aggregate. Sociology.
+In biological, medical fields, the Hippocratic tradition.
+
+The New Method is not something new to the world.
+Galen of 2nd Century had theories on how experiments should be conducted.
+
+Bacon laid the foundations for a tradition to be relied on throughout the years to come, a clarity of the right method that the Scholastic period and Renaissance did not have.
+
+_"Words are simply representatives of things in the external world. If you are interested in the external world, go in to that world. Don't sit around talking like a lover falls in love with a picture."_
+
+In challenging orthodoxies, are we establishing new orthodoxies?
+
+### Descartes and the authority of reason
+
+17th Century.
+Contemporary of Galileo and Bruno.
+Jesuit school education. Founder of analytical geometry, philosopher, mercenary.
+Father of modern philosophy.
+
+_"I think therefore I am."_
+Cogito, ergo sum.
+
+Rules for the direction of the mind.
+
+How does one find the right method that would spare one from self deception and superstition, but also from the melancholy state of a total skeptic?
+
+* **Discourse on method**
+* **Meditations on first philosophy**
+
+_"The power of forming good judgment and of distinguishing the truth from the false, is by nature equal in all man. But to be possessed of good mental powers is not sufficient, the principle matter is to apply them well."_
+
+What is the method of discovery? The guide to truth?
+History? History is a guide, but not an answer. Men who spend so much time in distant lands become strangers in their own country. All that one can glean would be generality subject to disagreement.
+Philosophy? Philosophers scarcely agree with each other on any major point.
+Mathematics? Abstract tool of analysis that is not entirely clear if you can map it to physical reality.
+
+For Descartes, the right method begins with a skeptical disposition: a profession of ignorance.
+What I think I know is probably laden with error, misapprehension and confusion.
+
+With this orientation, one is committed to accepting nothing, unless it can prevail on me as an idea of such power and clarity and indubitability, that I'm simply powerless to doubt it.
+The analytical and axiomatic approach.
+
+Anything that is not presented as an object of knowledge, e.g. objects of perception, could be delusion, and is not be accepted.
+"My eyes are blue" (external to the mind) is subject to deception.
+Thinking (as opposed to perception), however, is different.
+
+_"Thinking is another attribute of the soul, and here I discover what properly belongs to myself. This alone is inseparable from me. I am, therefore, precisely speaking, only a thinking thing, that is mind, or reason"_.
+
+"I think, therefore I am", is then an epistemological claim, a method by which to be sure of one is not deceived.
+The necessary precondition even for total skepticism.
+
+This method which begins with a thesis followed by good reasons that doubt its validity, then rational replies to the various objections, and the resting conclusion presented with clear and compelling force echoes with Sic et Non of medieval philosophy.
+In this sense, he was the father of modern philosophy, as well as the last great scholastic philosopher.
+
+* Accept nothing as true, accept what presents itself with a clarity and vividness that is irresistable.
+* Divide each problem into steps as small as possible.
+* Work from the solution of the smaller steps, then tackle the bigger problem and reach the general solution.
+* Test the general solution with persistence. Try to falsify the general solution.
+
+Philosophy of the mind (abstract, logical thoughts).
+**The mind-body problem** then becomes central to Descartes, whose discrepancy Aristotle saw, but the ancient philosophers did not expand on.
+How the immaterial, mental thing controls the moving, physical things?
+Would it be possible that something about the body can cause the mind to think? No to Descartes.
+
+Descartes, too, raises the question of whether it being possible to build a machine which would mimic our behavior so closely that we cannot tell it from a real person.
+
+He claims no, as it would not attain the idea of God, it would not be able to frame abstract concepts, and it could not creatively use language.
+
+The above would also be the marks of us rational and thinking beings: the rational, creative and discursive powers not at the level of perception, feeling or behavior, but rather the abstract and rational thought such as one sees in mathematics.
+
+His take on the mind-body problem then becomes that the mind has an independent standing.
+
+A theory of innate ideas. Something publicly and universally known cannot be known purely as a result of sensory experience, but some innate, intuitive, a priori mental power.
+(If sensory experiences are all that occupy the mind and all knowledge of the external world are by way of the sensory organs, then all that we could possibly know are our own experiences, sights, sounds, tastes, odors, and there is no basis to assume there is an external material world that is causally bringing me sensations. Everyone does know that the sensations are caused by the external material world impinging on the sense, therefore the above-stated innate power exists: the idea of matter must be something immiment in thought itself.)
+
+### Newton and science
+
+1643 - 1727. Cambridge, Trinity College. Was taught Plato, Aristotle, law, theologies at school, and read Descartes, Kepler, Hobbs, Copernicus and Galileo.
+
+**Certain philosophical questions**.
+_"Plato is my friend, Aristotle is my friend, but my best friend is truth."_
+Derived his interest in maths from astrology.
+Plague caused suspension of studies in Cambridge, and made the most genius discoveries.
+
+Secular, forward-looking and analytically rigorous methods.
+One not in the thrall of ancient wisdom or scholastic niceties.
+Novel instruments, methods of mathematical analyses.
+Model for succeeding generations of scientists. Remarkably productive.
+
+Newton was profoundly interested in the scripture, not as utterly secular as 18th Century propaganda would have it.
+
+**Principia Mathematica**
+Universal gravitation, motion of bodies, mass of the sun, motion of the tides and stars.
+Corrected Kepler's theory of motion.
+
+Calculus. **Mathematized / quantified**, maths as an applied method in astronomy and dynamics, and as a mode of discovery.
+The relation between maths and physics, obvious now because of Newton, but not to his predecessors.
+
+Revolutionary change in understanding of science and methods.
+We become knowledge gathering and theory testing entities.
+Far more than just building on earlier observations (if on anyone, more on Galileo's foundational work than anybody else).
+
+Reduce the complex problem. (ideal mass, abstract the object to a point.)
+Introduced the idea to **simplify** to an ideal world which can be used to test theories and conjectures in the real world. The role of **the idealized model**. (The ancient Greeks did not view problems as collection of parts.)
+Theoretical science at their best.
+
+Interest in alchemy. Hundreds of pages unpublished on the subject.
+
+A lifelong student of the bible, Newton believed the harmony and lawfulness he discovered were reflections of perfection of God's creation.
+Seeing the compatibility between the scientific discovery and church's teaching were common for scientists of his time.
+
+The Royal Society of London, on the account of no one's words.
+The crown became patrons of scientists, it turns to science to investigate the claim of a woman giving birth to a sheep, whereas earlier clergyman would be sent instead.
+Useful knowledge not enthralled by canon.
+
+### Hobbes and the social machine
+
+Thomas Hobbes, contemporary of Galileo, Newton, Descartes, of the beheading of Charles I, rise of the Lord Protector Cromwell, and restoration of monarchy.
+
+Implication of developed science no Hobbes:
+If all the universe can be reduced to systematic laws, then society itself can be embraced by the same rational approach to problem solving.
+
+Authorative translation of Thucydides. Against radical democracy. Royalist.
+Secretary to Francis Bacon, hence Baconian (and Galileo) influence.
+
+**Leviathan**.
+Social and civic engineering, minimize warfare / friction / civil strife.
+Free will, determinism, and nature of human nature.
+
+God has made nature conforming to the laws of mechanics, why should anything, society included, be different.
+Eliminating absurdity from our thinking, Baconian challenge of ancient orthodoxies.
+
+The approach of Hobbes is similar to that of Galileo's in physics, compositive and resolutive: breaking down complex phenomena into parts and building up again through systematic investigation.
+
+Speech is central.
+We engage in loose talk, and failed to distinguish real bodies, and material things.
+Confusions are fundamentally grammatical and linguistic.
+These are habits that must be relinquished, if there is going to be a scientific understanding of how society is to be structured and maintained.
+
+The metaphorical mode of thinking Hobbes accused the scholastics to be guilty of, not the Hobbesian realist approach to civics.
+Hobbesian reality is the physical reality.
+Man is a material entity in a material world. Nothing transcendental.
+
+Society is a collection of such entities. Complex system of matter and motion. Involuntary motion (instinctive and reflexive) and intentional motion (of motives and desires).
+
+The root motives and desires are grounded in pleasure and pain, a hedonistic view in psychology.
+The ultimate motive is survival, not eudaimonia, or eternal salvation.
+Morally sound and virtuous life, is all about seeking pleasure and avoiding pain and (a violent) death.
+
+Reduce reason itself to linguistic process, reducible to adding and subtracting, "reckon".
+
+Man is by nature a self-defending, self-interested and selfish animal, not as Aristotle's view of social animal, and that self-interest is why man enters society.
+
+It's not just by collectivizing that we gain security, rather when we enter society, we gain security by conferring upon someone, some group sufficient power and authority to be able to protect what we deem our own greatest interests.
+Leviathan, the state, and our allegiance to it lasts as long as the state is capable of protecting us, our interest, and our life.
+This is a long way from Aristotle's view of polis.
+
+How can we reduce civil strife then?
+By giving political power to the sovereign acting in the interest of the commonwealth.
+The individuals within the commonwealth do not have equal power: _"the value or worth of a man is his price"_ (a person's worth his market value: what others are willing to pay for his power. Hobbesian "honor".)
+
+On reward and punishment, the sovereign has such power, and it is in virtue of that power, we are moved.
+Unless stopped by some impediment, we move towards reward and avoid punishment, that is what chivalry, honor, courage and duty are all about.
+It is the sovereign with sufficient resources, making enjoying the pleasures of disobedience too heavy a price to pay.
+
+A pernicious idea, but great nonetheless.
+
+Hobbes critique of Descartes: the only thing we can know for certainty are physical material processes that are subject to observations and systematic scientific studies.
+The ultimate ontology, is an ontology of matter.
+
+### Locke's Newtonian science of the mind
+
+John Locke (1632 - 1704, younger contemporary of Newton's): Newtonian psychology.
+Trained as a physician. One of the few to be elected to the Royal Society for his philosophical contributions.
+
+One of the most influential in modern history. Parliamentary pedigree, opposite to that of Hobbes's.
+
+Scientific approach to the mind and the society. British empiricism. Started with Bacon, featuring Locke, Hume, Mills, etc.
+
+Newtonian science develops a simple model and then approach the physical problem through observation.
+Newtonian science's ontology: begin with an assumption that the ultimate constituents of reality are not visible things but small corpuscular things (light, e.g., is made of such).
+Complex phenomenons are to be resolved into elementary (atomic) components.
+
+**Essay on human understanding.**
+How the mind comes to be furnished at all?
+He does not accept the theory of innate ideas, i.e. _"the soul received in its very first being"_.
+
+Locke, however, does accept some original acts of the mind, e.g. the law of contradiction, and other forms of logic. **Intuitive knowledge**.
+There are other undisputable truths in all cases, such as geometric proofs, but such has to be proven and requires an argument. This is **demonstrative knowledge**.
+
+All ideas (the complex contents of human understanding) come from sensation (sensory acts / channels) or reflection.
+From experience.
+
+The thought experiment **Molyneux's problem**: a person born blind can feel the differences between shapes such as spheres and cubes, could he, after gaining sight, distinguish those by sight alone?
+Locke's empiricism says no.
+
+Complex ideas consists of elementary sensations, which are held together by an associational process like gravitation.
+We learn by association. Those we experience frequently together become associated.
+
+Locke then faces the skeptical challenges of how truthful the senses are.
+
+**Dualistic epistemology** was found in Locke. Realist when we perceive certain objects in the world. Phenomenalist when it comes to other properties of the real world.
+The lectern example. Its **primary quality**, hardness. What is there actually and can be reported by the sensory organs accurately. The hardness is made up from atomic elements that are hard.
+The color is not: a brown lectern is not made up from atomic elements that are brown. This is a **secondary quality**, produced by that object but is not something in that object itself.
+
+Locke also differentiates between two essences.
+We do not have the perceptive power to know the corpuscular elements directly, and that is the **real essence** of an object.
+The real elements of the object is what stimulates and brings about experience. On the basis of these experiences, we classify things (designate name to things, the **nominal essence**.)
+
+This leaves room for skeptical claims of our knowledge: real world objects are mediated by sensations, and can never be known for what they really are.
+One might challenge this with the claim that one really knows oneself. The cells in my body are ever being replaced, but my identity does not change, what is the essence of self?
+
+Plutarch says the ancient philosophers argued about the same thing: over time **Theseus's ship** are reinforced with new planks: at what point is it no longer considered Theseus's ship?
+
+Locke regards self / personal identity as a collection of experiences, memories, held together by the process of associations.
+
+Scriblerians, including Alexander Pope and Jonathan Swift, attacked this theory, as philosophy run amock: Jack kills Bill and by the time Bill hits the ground he is already a different person when attacked by Jack, and you can't even have a court trial on this.
+
+### The challenge of materialism
+
+The mind-body problem.
+
+No matter, never mind. Classic materialist position.
+
+No mind, never matter. The material world presupposes a thinking entity.
+
+Locke's radical empiricism seems to underestimate the creativity of the mind.
+Tabula rasa theory: men are born blank slate and all knowledge came from knowledge / experience.
+
+Leibniz. Calculus, statesman, probability theory, rationalist philosopher.
+
+**New essays on human understanding**. Challenges Locke's empiricism.
+Leibniz interprets Locke as "nothing is in the mind at all, except what is first in the senses". From Medieval Scholasticism of Duns Scotus.
+Leibniz's point would be, "except intelligence itself".
+
+It's not just a collection of sensations pulled together to form elementary ideas, then complex ideas, rather, there can't be a mind that's empty, mind is an integrative, creative, collective set of powers. The mind, self-awareness, self-reflection pre-exists experiences.
+
+Thought experiment: make a device like this, but make it huge, what would you see?
+Leibniz would claim you can find machinery, but not a perception or an idea.
+All perceptional experiences are **qualia**, the actual feel of things, and cannot be found in the machine shop.
+Reality is not reducible to crude matter.
+
+This is the **rationalist** rebuttal of empiricism: mind is active.
+Perception is grounded in apperception, or self-reflecting power.
+A materialist reductionist strategy is not going to work.
+
+Bishop George Berkeley (Barclay), optics, mathematician, philosopher, immaterialism, critique of materialism and skepticism. Berkeley the university is named after him.
+
+If a tree is to fall and no one is there to hear it, does its fall make a sound?
+**A treatise concerning the principles of human knowledge.**
+
+Materialism is a fatally flawed explanation.
+Distinction between contents of my mental life and myself that is I know these to be in my mind.
+There are no de-personalized ideas. Every idea is someone's idea.
+
+So long as they are not actually perceived by me, or do no exist in my mind or that of any other created spirit, they must have no existence at all or subsist in some mind of an eternal spirit.
+No primary, secondary qualities like Locke's.
+
+Yet the world remains as it's always been, it's not a fiction or a figment, it's filled with all the properties seen and experienced.
+His thesis does not undermines the physical mechanical principles. The laws of science are summaries of experience, their reduction to a set of rules does not constitute the discovery of some real unperceived cause.
+
+**"esse est percipi"**: to be is to be perceived.
+
+Does the dark side of moon exist then? Or the peak of the tallest mountain yet to be climbed?
+The material world subsists in the mind who made it, but it also subsists in its parts and particulars of those who have experience of the world. No mind, no matter.
