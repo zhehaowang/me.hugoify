@@ -7,6 +7,7 @@ node_modules/
 package-lock.json
 
 #generated/*
+generated/resources/_gen/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
