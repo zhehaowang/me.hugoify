@@ -3,15 +3,15 @@ title: Home
 layout: gallery
 date: 2019-09-10
 summary: Sweet home.
-image: /gallery/all/DSC08748.jpg
+image: /gallery/all/laojun.jpg
 weight: 8
 ---
 
-![laojun](/gallery/all/DSC08748.jpg)
+![laojun](/gallery/all/laojun.jpg)
 
 老君山。
 
-![forbidden-palace](/gallery/all/DSC08335-Edit.jpg)
+![forbidden-palace](/gallery/all/corner-tower.jpg)
 
 角楼。
 

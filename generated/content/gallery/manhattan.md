@@ -11,7 +11,7 @@ weight: 7
 
 Hoboken after storm.
 
-![911](/gallery/all/DSC02942-Edit.jpg)
+![911](/gallery/all/vigilance.jpg)
 
 Vigilance shrines bright.
 
@@ -19,6 +19,6 @@ Vigilance shrines bright.
 
 Echos from the past.
 
-![manhattan-bridge](/gallery/all/DSC00347.jpg)
+![manhattan-bridge](/gallery/all/manhattan-bridge.jpg)
 
 "Noodles, I slipped".
