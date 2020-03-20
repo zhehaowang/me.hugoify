@@ -7,6 +7,7 @@ import urllib.request
 import glob
 import os
 import logging
+import hashlib
 
 class GooglePhotosGetter():
     def __init__(self):
@@ -52,8 +53,10 @@ class GooglePhotosGetter():
         # @todo(zwang): should handle deletion!
         folder_name = os.path.join(target_dir, title)
         files = []
+        file_hashes = []
         if os.path.exists(folder_name):
             files = list(glob.glob(os.path.join(folder_name, "*")))
+            file_hashes = [hashlib.md5(open(f, 'rb').read()).hexdigest() for f in files]
             files = [os.path.basename(f) for f in files]
             logging.info("currently has files {}".format(files))
         else:
@@ -68,7 +71,12 @@ class GooglePhotosGetter():
             download_url = p['baseUrl'] + suffix
             target_filename = os.path.join(folder_name, p['filename'])
             urllib.request.urlretrieve(download_url, target_filename)
-            logging.info('populating {} from {}'.format(target_filename, download_url))
+            # unideal that we file io first then remove, but quick hack to not fetch renamed duplicates
+            target_hash = hashlib.md5(open(target_filename, 'rb').read()).hexdigest()
+            if target_hash in file_hashes:
+                os.remove(target_filename)
+            else:
+                logging.info('populating {} from {}'.format(target_filename, download_url))
         return
 
     def run(self):
