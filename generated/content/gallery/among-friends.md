@@ -3,7 +3,7 @@ title: Among Friends
 layout: gallery
 date: 2020-03-03
 image: /gallery/all/salary.jpg
-weight: 1
+weight: 2
 ---
 
 **To those who accompanied, supported and inspired us.**
