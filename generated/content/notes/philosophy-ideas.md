@@ -1161,14 +1161,16 @@ The ultimate ontology, is an ontology of matter.
 
 ### Locke's Newtonian science of the mind
 
-John Locke (1632 - 1704, younger contemporary of Newton's): Newtonian psychology.
+John Locke (1632 - 1704, younger contemporary of Newton's): British empiricism and Newtonian psychology.
 Trained as a physician. One of the few to be elected to the Royal Society for his philosophical contributions.
 
 One of the most influential in modern history. Parliamentary pedigree, opposite to that of Hobbes's.
 
-Scientific approach to the mind and the society. British empiricism. Started with Bacon, featuring Locke, Hume, Mills, etc.
+Scientific approach to the mind and the society.
+Started with Bacon, featuring Locke, Hume, Mills, etc.
 
 Newtonian science develops a simple model and then approach the physical problem through observation.
+
 Newtonian science's ontology: begin with an assumption that the ultimate constituents of reality are not visible things but small corpuscular things (light, e.g., is made of such).
 Complex phenomenons are to be resolved into elementary (atomic) components.
 
@@ -1179,8 +1181,7 @@ He does not accept the theory of innate ideas, i.e. _"the soul received in its v
 Locke, however, does accept some original acts of the mind, e.g. the law of contradiction, and other forms of logic. **Intuitive knowledge**.
 There are other undisputable truths in all cases, such as geometric proofs, but such has to be proven and requires an argument. This is **demonstrative knowledge**.
 
-All ideas (the complex contents of human understanding) come from sensation (sensory acts / channels) or reflection.
-From experience.
+All ideas (the complex contents of human understanding) come from sensation (sensory acts / channels) or reflection, and in other words, from experience.
 
 The thought experiment **Molyneux's problem**: a person born blind can feel the differences between shapes such as spheres and cubes, could he, after gaining sight, distinguish those by sight alone?
 Locke's empiricism says no.
@@ -1191,6 +1192,7 @@ We learn by association. Those we experience frequently together become associat
 Locke then faces the skeptical challenges of how truthful the senses are.
 
 **Dualistic epistemology** was found in Locke. Realist when we perceive certain objects in the world. Phenomenalist when it comes to other properties of the real world.
+
 The lectern example. Its **primary quality**, hardness. What is there actually and can be reported by the sensory organs accurately. The hardness is made up from atomic elements that are hard.
 The color is not: a brown lectern is not made up from atomic elements that are brown. This is a **secondary quality**, produced by that object but is not something in that object itself.
 
@@ -1205,7 +1207,7 @@ Plutarch says the ancient philosophers argued about the same thing: over time **
 
 Locke regards self / personal identity as a collection of experiences, memories, held together by the process of associations.
 
-Scriblerians, including Alexander Pope and Jonathan Swift, attacked this theory, as philosophy run amock: Jack kills Bill and by the time Bill hits the ground he is already a different person when attacked by Jack, and you can't even have a court trial on this.
+Scriblerians, including Alexander Pope and Jonathan Swift, attacked this theory, as philosophy ran amock: Jack kills Bill and by the time Bill hits the ground he is already a different person when attacked by Jack, and you can't even have a court trial on this.
 
 ### The challenge of materialism
 
@@ -1216,7 +1218,7 @@ No matter, never mind. Classic materialist position.
 No mind, never matter. The material world presupposes a thinking entity.
 
 Locke's radical empiricism seems to underestimate the creativity of the mind.
-Tabula rasa theory: men are born blank slate and all knowledge came from knowledge / experience.
+**Tabula rasa theory**: men are born blank slate and all knowledge came from experience.
 
 Leibniz. Calculus, statesman, probability theory, rationalist philosopher.
 
@@ -1224,7 +1226,8 @@ Leibniz. Calculus, statesman, probability theory, rationalist philosopher.
 Leibniz interprets Locke as "nothing is in the mind at all, except what is first in the senses". From Medieval Scholasticism of Duns Scotus.
 Leibniz's point would be, "except intelligence itself".
 
-It's not just a collection of sensations pulled together to form elementary ideas, then complex ideas, rather, there can't be a mind that's empty, mind is an integrative, creative, collective set of powers. The mind, self-awareness, self-reflection pre-exists experiences.
+It's not just a collection of sensations pulled together to form elementary ideas, then complex ideas.
+Rather, there can't be a mind that's empty: mind is an integrative, creative, collective set of powers. The mind, self-awareness, self-reflection pre-exists experiences.
 
 Thought experiment: make a device like this, but make it huge, what would you see?
 Leibniz would claim you can find machinery, but not a perception or an idea.
@@ -1248,9 +1251,649 @@ So long as they are not actually perceived by me, or do no exist in my mind or t
 No primary, secondary qualities like Locke's.
 
 Yet the world remains as it's always been, it's not a fiction or a figment, it's filled with all the properties seen and experienced.
-His thesis does not undermines the physical mechanical principles. The laws of science are summaries of experience, their reduction to a set of rules does not constitute the discovery of some real unperceived cause.
+His thesis does not undermine the physical mechanical principles. The laws of science are summaries of experience, their reduction to a set of rules does not constitute the discovery of some real unperceived cause.
 
-**"esse est percipi"**: to be is to be perceived.
+**_"esse est percipi"_**: to be is to be perceived.
 
 Does the dark side of moon exist then? Or the peak of the tallest mountain yet to be climbed?
-The material world subsists in the mind who made it, but it also subsists in its parts and particulars of those who have experience of the world. No mind, no matter.
+The material world subsists in the mind who made it, but it also subsists in its parts and particulars of those who have experience of the world.
+No mind, no matter.
+
+### Hume, psychologizing morality and causation
+
+David Hume (18c), central figure in Scottish Enlightenment.
+Contemporary of Rousseau, Adam Smith, etc. Celebrity in the salons of Paris, great conversationalist.
+One of the most important writers to have written in the English language.
+
+A period of great achievement in Scottish law, medicine, economics, art, scholarship, science.
+Edinburgh Athens of the north.
+(Adam Smith, etc are of the same period.)
+
+**History of England**, 5 volumes.
+
+**Treatise of Human Nature**, 3 volumes. Profound though regarded by Hume as immature work. Set out to defeat skepticism. But Hume earned his reputation as a skepticist.
+**An enquiry concerning the principles of morals**.
+
+Stoic teaching.
+
+Moral philosophy of Hutcheson (British sentimentalist tradition), counters Hobbes with the constitutive nature of our being, having core sentiments that establish what we value, e.g. benevolence.
+Naturalized moral theory, not abstract or transcendental.
+
+Hutcheson takes a religious ground, and Hume takes an entirely naturalistic perspective.
+
+Philosophy is not outside the human condition, it's part of the human condition.
+Hume is influenced by Bacon and Berkeley's empiricism, and argues that the mind consists of sensory organs, and the external world makes sensory impressions on the mind.
+
+There is some external physical world capable of exciting senses, but contents of the mind are just copies of what's occurring at the level of sensation.
+We never have immediate knowledge of the external world, but only via this intermediary namely our perceptual capabilities. The naturalization of epistemology and morals.
+This view has a shard of skepticism in it.
+Hume has a Darwinian view of the external world, and this was before Darwin's time.
+
+Hume is dubious about causes: the basis upon which we can ever know about causes.
+Core principles of (Locke's) association: repetition is a principle of association (when A and B occur together often enough.)
+Causation is then what the mind assigns to constantly conjoined experiences.
+
+_"anything may be the cause of anything."_
+Point being, the concept causation are habitual mental processes, not something recorded in the external world.
+Psychologized causality (and morality).
+
+Hume ties morality to the constitution of our (common) nature.
+
+Maximization of pleasure and minimizing pain.
+Hume is not skeptical about morality, but would reject all forms of moral realism.
+Hume claims what we are maximizing here is "utility", among the first to use this term. "Utilitarianism".
+
+Reason then becomes the deliberative means of securing what the appetite and passions require.
+
+This does not sound controversial in that we are children of Humes: the essential function of government are in utilitarian terms, and the world as we know it is created by our mental machinery (and not God).
+
+Hume's problem of induction: future has no obligation to mimic the past, and any inference we make about the future based on past experience has no rational warrants.
+
+### Thomas Reid, the Scottish School
+
+Thomas Reid. Common sense philosophy. Willingness to live by his own philosophy. Contemporary critic of Hume.
+Master of optics, maths and astronomy.
+Scottish thought was profoundly influential in the founding of the US.
+
+An inquiry into the human mind. 1764.
+In any significant conflicts between the dictates of common sense and the productions of philosophical imagination, it is the latter which has to yield.
+
+The principle of common sense, not the prevailing opinion of the crowd or settled ethos of a community, but rather that which we have an obligation to take for granted, in all of the ordinary affairs of life.
+Necessary preconditions for thought and action.
+
+The prevailing theory, of Locke and the scholastics before him, had been that the external world cannot be directly known, but rather mediated through our senses (and presented to us as copies).
+Reid found this idea and how it was reached worrisome.
+Example: visual perception of rectilinear triangle projected onto a spherical surface.
+Reid intends to take a Baconian / Newtonian experimental approach in this matter, as opposed to theorizing to which philosophers are prone.
+
+Reid rejects Hume's theory on causation.
+Conjoined events may be not causation, just correlations.
+No set of observations or events taking place in the external world, could possibly lead to a concept like A causes B.
+The concept of causation is an inference we make, based on our knowledge of ourselves as having an active power to do something. (Us having the power such as closing our eyes and darken the world, and projecting this power onto the world is how causation came about.)
+
+On Hume's moral theory that passion rules reason, Reid does not think we are pleasure-seeking pain-avoiding organisms, rather we are rational entities first, and seek benefits in the long run or benefit us as a whole.
+
+Psychological theory of morality.
+Belief that our actions are in our power.
+
+An artificial language must be grounded in a natural language (facial expressions, sounds you find in the animal kingdom).
+
+On personal identity, Reid does not think it a collection of memories (Locke), or a bundle of perceptions (Hume).
+
+_"Conjectures and theories are the creature of men, and will always be found to unlike the creature of God. A just interpretation of nature is the only sound philosophy Orthodoxy."_
+Whatever we add of our own, is of no authority.
+
+### France and the Philosophes
+
+_"My works are the issue of pure and simple experience, who is the one true mistress."_
+Leonardo da Vinci
+
+Similar thoughts can be found in Voltaire: the light of experience casts sufficient illumination for us to understand to the nature of our difficulties, and guide us out of the labyrinth.
+
+Voltaire traveled to London and wrote on the English people, on Newtonian vs the Cartesian systems.
+
+If philosophy has a purpose in human life, presumably it should be to help us figure out problems of essentially civic, social, moral and intellectual nature.
+In this sense, the French salon Philosophes invited the world to the long debate.
+
+For everything God gives us, he takes two things back.
+With democratizing of philosophy, comes the populist and rhetoricals.
+
+**Diderot's Encyclopédie**.
+Utter secularization of knowledge. Authority of experience, science and common sense over traditional modes of authority, e.g. that of church.
+
+d'Alembert, Voltaire, Rousseau, Montesquieu, Holbach et al all contributed to Diderot's work, which perhaps served as the best material for public education since Charlemagne's time.
+
+Voltaire. Like Descartes, was educated by Jesuits. Served in the Bastille for criticizing government, and later exiled to England. Admires the English people.
+
+If a thing exists, it exists in some degrees. It can then be measured. If it can be measured, it can be known.
+Enthusiam for calculus, all forms of machinery.
+
+Rousseau. On the peripheral of glittering wits / fashionable salons. Tortured and misunderstood person, and paranoid towards the end of his life.
+Against the attention to science and technology, Rousseau looks to nature in the raw, unanalyzed. Spare the resolutive and compositive methods of the tickering classes.
+Against the vaunted rationalism of the Enlightenment, its contempt for superstitution and reverenece for high civilization, Rousseau draws his attention to the inauthentic lives constrained and corrupted by civilization.
+The romantic rebellion. Same tool of high culture and literature astuteness that is the hallmark of the Enlightenment.
+
+**Rousseau's Emile**, on Education, civilization works to the disadvantage of what is most authentic about us. The process of civilizing someone is to strip him of natural tendencies and sentiments. It hardens and renders indifferent its beneficiary.
+Against traditional authority.
+
+**The Social Contract** 1762, _"Man is born free, and he is everywhere in chains. One thinks oneself the master of others and still remains a greater slave than they. How did this come about."_
+The chained mind by orthodoxy and rendered incapable.
+Naturalism and a concession to nature. Skepticism towards habitual modes of conduct and human contrivances.
+
+**La Mettrie and Man a Machine**. Physician. A polemic.
+_"it is not enough for a wise man to study nature and truth. He should dare stay truthful for the benefit of the few who are willing and able to think. As for the rest, who are voluntarily slaves of prejudice, they can do no more than a frog can fly."_
+Claims man is a complicated machine. The soul is an enlightened machine, still a mechanical contrivance.
+
+Translation of Locke in French.
+The sentient statue.
+
+Helvetius. Environmentalist.
+
+Condorcet. Sketch for a historical picture of the human mind. Hopefulness in the union of the sciences and the society.
+Integral calculus, probability and decision theory. Secretary of the Academy. Revoluntionary. Died in prison.
+
+18th Century claimed revival of the classics, but not quite compatible of the classical world view, one of harmony and propotion, everything has its place and function, a search for the absolute and everything good can be preserved.
+The idea of progress in the 18th Century, however, suggests what is stationary is stagnant, and the future is under no obligation to mimic the past. Liberate human imagination.
+
+### Federalist papers and the great experiment
+
+The Federalist papers, James Madison, Alexander Hamilton, John Jay notes on the proceedings of conventions of founding fathers (delegates of various states), confidential initially to the media. 1787 draft, 85 letters published under the name "Publius".
+Designed chiefly to win New York to the ratification of the constitution.
+
+Political philosophy contribution with realistic and practical wisdom.
+A set of templates for a national government, compared with the work of the contemporary Rousseau, (and earlier) Locke, Hume, Montesquieu, etc, on whose work the authors are well read.
+
+Hamilton proposed president for life with veto power, which seemed nearly tyrannical.
+Madison was a key figure to the constitution and American politics. Reformed Princeton's curriculum, from where he graduated.
+Promulgater of Scottish common sense philosophy. Naturalist, scientific and progressive.
+
+Madison answers **"what is a republic"**: when government's power is derived entirely from its people.
+_"When it is administered by persons holding their offices during pleasure for limited period or during good behavior"_. (serve at the people's pleasure and required to uphold standards of conduct acceptable to those who are governed.)
+
+The closer something comes to approximating this sense of the republic, the sooner it dies.
+Those who it make are puritanical republic: power is delegated by the people, not held and wielded by them.
+A republican system of this sort can _"refine and enlarge public views, by passing them through the medium of a chosen body of citizens, whose wisdom may best discern the true interest of their country, and whose patriotism and love of justice will be least likely to sacrifice it to temporary or partial considerations."_
+
+And a critical number of representatives must be elected, for the smaller the number, the greater the opportunity for cabals.
+
+In Federalist Papers, Hamilton's critique on Montesquieu demonstrates a general suspicion towards theoretical ways of solving practical problems.
+The tension between the two arises from the need for a central government able to secure the finances and defenses of the nation, and the jealously guarded freedom of the individual states.
+What is the difference between paying taxes to the British, vs paying taxes to a government within the national boundaries. Is one tyranny being replaced with another?
+
+The point of a constitution is to constitute a nation, to give it centrality. 
+_"The federal and state governments are in fact different trustees of the people, constituted with different powers, designed for different purposes...The ultimate authority resides in the people alone, and that it will not depend merely on the comparative ambition and the address of different governments."_
+
+Montesquieu: despotism - the required disposition is fear, monarchy - honor, republican - cultivation of virtue. Natural aristocrats by character, not by birth.
+
+Madison discusses the failed republics of Greece and Rome, lifetime senate appointments, the tendency of citizens to misplace their interest under the enthusiam of the moment.
+_"As the cool and deliberate sense of the community ought, in all governments, and actually will, in all free governments, ultimately prevail over the views of its rulers; so there are particular moments in public affairs when the people, stimulated by some irregular passion, or some illicit advantage, or misled by the artful misrepresentations of interested men, may call for measures which they themselves will afterwards be the most ready to lament and condemn."_
+
+Human nature can be occasionally fickle, foolish, and gullible. The right form of government cannot rid human of such nature, but can control them long enough for a person to engage in the lifelong mission of self correction.
+
+The Federalist Papers demonstrated an utter respect by the authors for the people whose allegiance they seek to cultivate.
+The Federalist Papers achieved philosophy with a civic face. Citizens need to take himself and his missions seriously. All passion spent, self governance is risky business, and power without virtue is a sure path to a life without a point.
+
+What sort of virtue is needed in this republic?
+Opinions of the founding fathers differ, but agree on this experiment on self governance presupposes an instructed population, products of a good education with a point, and the point being the development of citizens.
+The responsible, informed, inner-directed, virtuous person. A matter of character, not of vocational or professional skills.
+And that character is forged by observing good example, and public education, which Jefferson thought to be the foundation of this.
+
+A worthy government works to create virtuous, self-governing citizens, whose efforts are a lifelong labor.
+
+### Enlightenment and Kant on freedom
+
+What can I know? What ought I to do? What can I hope?
+Questions to which Immanuel Kant (1724 - 1804) devoted most of his adult life. Empiricist.
+
+Immanuel Kant: what is enlightenment? **Intellectual freedom**. Express one's own ideas rather than echo'ing the thoughts of others.
+_"Enlightenment is man's emergence from his self-incurred immaturity."_
+The freedom to question, to make public use of one's reason in all matters.
+
+**Critique of pure reason**: not criticizing but analyzing the assets and limitation of its subject, pure reason, i.e. nature and limits of reason itself.
+Where reason trails off, what else is there and what can we hope for? (Knowledge)
+Kant claims to have awakened from his dogmatic absorption in David Hume, and thus this work.
+Hume: everything we know is product of experience. Causation, habitual mode of all action.
+Kant agrees, but claims it's a mistake to assume because our knowledge **arises from** experience, that our knowledge **is grounded in** experience.
+But in terms of Hume's causation, we cannot see or feel time, there cannot be succession / conjunction unless time is present as a categorical framework for all experience.
+
+Time is a necessary precondition for temporal ordering, but not given by any experience, i.e. time is not a stimulus on sense organs or learned through experience.
+Cognitive holdings that are not results of experience are what Kant deemed **"pure" / non-empirical**.
+This critique deals with such cognitive holdings such as time.
+
+Space as such is also not given by experience, but also something that is present for there to be experience at all.
+
+Thus, Kant thinks time and space pure "intuitions", i.e. a priori to all experiences as described by Hume.
+Causation then is not just a habit of the mind, but must be grounded in something more foundamental, that which experience itself cannot convey.
+All of epistemic claims have certain forms of properties, that they all take place in some categorical framework such as time and space.
+
+The analytics of concepts: Kant claims all knowledge involve some judgment, formed within a universal categorical framework.
+
+Such categories (of human understanding) involve
+* Quantity (one, many, all; unity, plurality, totality. Nothing about the senses can convey totality, such as the number infinity cannot be learned by counting.)
+* Quality.
+* Modality (something is actually the case, possibly the case, or necessarily the case. Experience also cannot convey necessity.)
+* Relation.
+
+Kant argues the above categories are not just what our minds use to describe experiences / particularity of our nerve systems, but rather necessary frameworks / forms for all epistemic framework within which there can be understanding / experience.
+
+**Hume's fork**: two classes of things we can know about, relations among ideas vs matters of fact.
+All bachelors are unmarried, is an example of the former. **Analytical propositions**, whose truth can be known entirely independent of experience, i.e. known a priori. 
+Bill is wearing shoes, is an example of the latter. **Synthetic propositions**, whose truth cannot be known prior to the experience / a priori.
+
+Kant's rebuttal on the above is by pure intuitions of space and time. All empirical statements we make will have certain properties that can be established a priori, by way of the pure intuitions of time and space, and pure categories of understanding.
+Hence a part of that synthetic proposition can be known a priori: your experience takes place in some framework.
+
+In a sense, the Kantian pure intuition and categories are prerequisites for Hume's experience to work.
+
+What we know of the external world factually takes the form of phenomena, objects of perception.
+But there is something behind this realm of phenomena (Kantian **realm of noumena**), and the question is how accurately does the mental representation of reality we have reflect the actual reality?
+We cannot penetrate the phenoma to the noumenal level, and this places a limit on what we can know, and the validity of knowledge we can claim.
+
+**Critique of practical reason**: grounding of ethics. Principles by which choices are made among morally weighty consequences. (Conduct)
+Kant's moral theory shows influence from Reid.
+
+**Critique of judgment**: grounding of aethestics. (what is harmonious, what is apt, etc)
+
+All three works are difficult in German or English.
+Kant was not well-traveled, and is said to be a well-humored and affable person, not in his philosophical work though.
+
+### Moral science and the natural world
+
+Hume's moral theory: our moral reasoning are based on sentiments, emotions and utility.
+Ground on which we judge good or bad is not some abstract moral concept, but how the certain events affect us cellularly / physiologically.
+_"Moral distinctions not derived from reason."_
+**Moral matches up with utilitarian pleasure, with roots extending back to Epicureanism. Utilitarianism**
+
+Events are judged bad only because we react to them that way (generally based on their utility, pleasure).
+
+Moral philosophy is then not to deduce first moral principles, but to come to grip with human nature, and to recognize the challenges that nature faces, in a complex world.
+
+
+Kant's moral theory: **deontological theories**, deon, duty in Greek. A principal adversary to utilitarianism.
+
+Certain moral precepts are unconditional. Certain actions are right or wrong under whatever circumstances.
+Utilities, sentiment, and emotions are irrelevant.
+Deontological theories reject the idea that something is right because it happens to achieve good outcomes, or in your heart you know it's right.
+
+The fact that humans are natural objects does not imply that they are no more than this.
+Human beings are also rational beings: they occupy the intelligible realm, in which we account for events not due to physical causes, but rather reason.
+
+Other aspect of Kant's moral theory: **autonomy of the will**: there is no moral at all if we don't have the freedom to act or not act.
+There must be sufficient freedom for us to be charged of wrongdoing, or praised for virtuous actions.
+
+Kant claims the above cannot be proved empirically.
+In **Critique of Practical Reason**, Kant claims our conscious awareness of a moral law grants a concept of freedom. There are such moral laws, as otherwise the concept of freedom would not be intelligible. The means by which the concept of freedom is reached is rational, not empirical, and cannot be proved scientifically.
+A scientific proof (on atomic determinism), in a sense, is contrary to the idea of freedom (autonomous and subject to moral laws).
+
+An automous person, in Greek, is not a lawless person, but rather whose freedom is governed by the laws he gives himself.
+
+_"A free will and a will subject to moral laws are one and the same."_
+
+**Hypothetical imperative** (hunger, thirst, frustration, Humian desires): if you were to achieve this specific outcome, then you must do that.
+Grounded in our natural being where we are subject to the natural laws of science.
+
+To contrast with hypothetical imperative, Kant proposes **categorical imperative**: an action being objectively necessary in itself, without any other purpose, i.e. without any other end.
+
+Goal of happiness cannot be obtained by willing it, the required virtue is prudence. 
+
+And what Kant sets up to say here is that Humian moral theory is really concerned with things that are outside morality, i.e. the hypothetical imperatives, without moral freedom. This is somewhat similar to Aristotle's view.
+
+Kant's moral precepts are universally applicable. They carry with them categorical imperative, which asserts its own moral authority, not based off of some consequences.
+
+On Kant's account, infants, or one whose nerves are flawed in such sense (insanity), are not moral beings, as they don't possess rationality.
+Then under the same account, an insane person (or one lacking the authority of the will) is not among those fit for the rule of law, and is not subject to moral law.
+
+The categorical imperative, summarized as _"act in such a way that the maxim of your action (i.e. the principle upon which your action is based), would (if you were able) be instituted as a universal law of nature"._
+
+_"Man is never means to an end, but an end in themselves."_ Kant uses this to propose to never lie.
+
+(John Stewart Mill would claim Kant's argument can justify an insane arsonist establishing burning all as a universal precept, though this would appear to derive from misunderstanding Kant's argument.)
+
+Kant's epitaph, "the moral laws within him, and the starry sky above him".
+
+Kant's moral theory, not for pleasure, or easing pain, but for doing the right thing, and thus instantiating ourselves as moral beings.
+
+### Phrenology
+
+Enlightenment also saw revival of atomic theory, corpuscular science of Newton's.
+The mindset then was optimistic: no problem is so complex as to beyond the reach of science.
+They would argue to discover the nature of human nature, one must understand the subject to be a scientific one of the brain.
+Phrenology is one such study.
+
+Lavater and Physiognomy: maps one's face to one's character.
+
+Franz Joseph Gall, father of phrenology.
+The theory would claim, e.g. one can judge all talents by observing physical appearance, or a surgeon can gauge one's cranial skull to learn one's morals, characters, etc.
+The Church banned this school of thought which led to atheism.
+
+Goethe, Edison also held phrenology beliefs.
+
+Gall received best medical education of his time, was not a charlatan, and did research on fetuses to study phrenology.
+Gall also differentiated brain grey and white matters, a functional anatomy of the brain. A pioneer in comparative structural anatomy.
+
+(Phren, Greek for mind. Gall claims this to be the incontestable truth of the science of the mind).
+
+Gall identified 27 basic faculties of the mind, each associated with a specific organ of the brain. (a modular theory of the mind；e.g. one's destructiveness is somewhere above the ear. Understanding of causality somewhere in the forehead.). Later comers added more.
+Gall also claims heavier brain mass indicates higher faculty in aspects.
+Gall claims mental and moral differences between people trace back to differences in structure of the brain.
+Experience matters, but the ultimate factor is genetic, like Hesiod's men of gold, bronze and iron.
+
+Later critics of phrenology performed experiments where brains of an animal were cut open, certain areas removed, and the animal is sewn back together to observe what deficiencies they have.
+
+Phrenology, although pseudo-scientific, contributed to rescuing philosophy of the mind from being speculative to physical and clinical sciences.
+The theory died in the second half of the 20th century.
+
+### Romanticism
+
+Romanticism of the 19th C.
+
+Even though it may be a rejection, or a reaction to enlightenment, it traces back to enlightenment.
+
+Rejecting superstition, reserving experience alone as the final authority, nature at the center of philosophical concerns.
+Nature of law, human, belief, government, the world and the cosmos.
+Against the authority of scripture or revelation, rank and title, over-analytical scholasticism, sloppy acceptance of canon.
+
+Rousseau, a religion of nature. Liberate perception.
+**Reveries of a Solitary Walker**. Merging with fields and flowers.
+
+Kant's view contrasts the proposal of Rousseau's:
+If systematic observation on which science depends reveals only phenomenal reality and not Kant's noumenal reality, then science has built in limitations, and may be another obstacle to the truth of things.
+Human nature, the intelligible realm, cannot be adequately understood by the causation order of the sciences, but only through the rational introspective thoughtful being who discovers himself a being with free will.
+The way to get behind the observations, is then through this freedom.
+
+Consider Gothic novels like Frankenstein and the Castle of Otranto, or Fuseli's Nightmare. Romanticism conveys the sense of the mystery behind the reality, that gets uncovered through art and literature.
+
+Romantic rebellion against the line and angle precision, and the pretension to knowledge of the scientific community, the mixed bounty of a industrial revolution that began as a servant but now stands as a master of the human condition.
+
+Goethe, painter, botanist, playwright, poet, statesman. Romanticism.
+**Farbenlehre**, long book on color vision. Critique on the Newtonian theory of light as an experience.
+Goethe takes a step back and examines the perception of beauty. Perception have inventive powers, and can defy physics.
+What defines human nature would not be the rigidity of science.
+
+**Faust**, two parts, the optimistic Goethe had him saved by angels.
+Dr Faustus, 15c, a magician, alchemist, knowledgeable, studious, gentleman, to whom life has lost its meaning, he knows everything, master of scripture. Made a deal with the devil to possess supernatural knowledge and power.
+Goethe's version has a wager between God and Satan, and Faust's devotion to religion was replaced with devotion to science. Yet all his studies has not revealed the truth to things.
+Love, power, romance, passion, ocean of turmoil and possibilities. What would you sell your soul for? Mephistopheles.
+
+_"He only earns his freedom and existence who daily conquers them anew"_.
+Faust, the man who went through everything, placed this ideal of freedom at the highest.
+
+Schiller. **Letters Upon The Aesthetic Education of Man**. _"Man is never so authentically himself than when at play"_.
+Romanticists are well read in classics.
+Eudaimonia, divinity within us expresses itself most fully when what we are doing, we are doing for the sheer intrinsic worth of the activity itself, not for anything external to it.
+Authenticity of play.
+In a sense, to professionalize an activity, is to transfer it from play to business.
+
+Romanticism is about passion, the authentic commitment, not a gift of reason. What we do when we are free, and what we do to be free.
+In play, we discover our authentic self.
+Go through a world of wonder, wondering.
+
+### Hegel and history
+
+Classicicism vs romanticism world views.
+
+Born 1770, geared for unexciting theological studies. German romantic idealism.
+Defender of freedom, rejecton of the past. German ideology being influenced by the French revolution.
+
+**The Phenomenology of Spirit (Mind)**
+His mission: _"the systematic development of truth in scientific form can alone be the true shape in which truth exists. To help to bring philosophy nearer to the form of science – that goal where it can lay aside the name of love of knowledge and be actual knowledge – that is what I have set before me."_
+
+Hegel acknowledges Descartes to be the thinker who revived the very foundation on which philosophy is based: knowledge in all its forms is but the unity of thought and being. Universal doubt as an absolute beginning. Make abolition of all determinations the first condition of philosophy.
+
+Rejection of mechanistic sciences.
+Hegel admires Newton's work, but also thinks Newtonian science makes Locke's philosophy nearly official: the pursuit of perceptual modes of knowledge, and shunning of deep metaphysical considerations are product of Newtonian science mode of thinking. Physics, beware of metaphysics; science, beware of thought.
+
+Thoughtless application of thought itself may confuse us that we have witnessed reality as such, when in reality we merely recovered the product of a method.
+The true is the whole, and there are no parts of truth.
+Hegel also claims science doesn't actually explain anything: they describe what is, but not why things are the way they are.
+
+Hegel (Fichte)'s triad **thesis, antithesis, synthesis**. (Dialectical method of Hegel, first idea, second idea that rejects the first, and third idea that reconciles both). Progress through conflict, reality arising through opposing tendencies. Freedom arises from such conflicts: in the attempt to constrain yourself, you become conscious of your freedom.
+Ultimate reality is that of idea. The starting point of philosophy being the transcendental ego.
+
+Explanations based on causes vs explanations based on reason.
+
+Romanticism contains nothing if not the idea of struggle, which produces newer and ultimately better forms of thought.
+
+History. Are we to assume these are accidental set of occurrences, or does it patently point to a plan or a scheme of some kind? Progressive development of an evolutionary nature.
+There is reason in human history. **Reason in History**. History is a creation by reason.
+The Absolute idea is the identity of the theoretical and practical idea. All else is error, confusion, caprice, transitoriness. The Absolute idea itself is being, all-knowing, truth.
+
+Hegel's political philosophy, _"the state is the realization of the ethical idea, the true state is the ethical whole and the realization of freedom. The state is the march of the God through the world."_
+
+Fichte, German nationalism, preserve German cultural ideology in the face of the French challenge.
+Moral development of the human race.
+The stage of perfected sinfulness, acting for the sheer sake of expressing freedom against any ground of constraint, opposition or coercion.
+Only when one abandons individuality, which is materiality itself, can there be an eternal life.
+
+### The aesthetic movement
+
+The divorce between natural philosophers and the scientists. (1862, Helmholtz)
+Hegel was vehemently against natural philosophers, and almost accused Newtonian science being narrow minded, and scientists accused philosophers being insane.
+
+The aesthetic movement in late 19c.
+A humanitarian century of reforms, removal of obstacles and saving people from traditional patterns of oppression.
+A century that concerns itself with the discriminated groups and those who were not able to care for themselves.
+Radicals, emancipation of slaves, centiments of benevolence.
+
+Now, in a scientifically knowledgeable period with the right methods and perspectives, we could actually solve problems.
+
+Romanticism sees science's understanding of nature is incomplete and too narrow, the Hegelians were on to something when they claimed science provided correct but empty equations, and it doesn't give us the reason of things.
+
+Romanticism would have us see through art, beauty, poetry, that we come to realize our essential nature. And through understanding of that nature, ever more aware of the kind of world we should strive to bring about.
+
+Aestheticists claim the fundamental connection between truth and beauty.
+
+Science vs culture.
+Should higher education teach Latin and Greek, or scientific methods?
+
+James Mill.
+
+Matthew Arnold, advocate of culture, "to know the best that has been thought and said about the world", also, Plato's world view would be strange nowadays, nonetheless, the nation's best interest may not be secured by a scientific education. To understand human nature, you can take a biological approach and keep tracing back. Keep going long enough, taking the scientific reductive approach, and good things can happen.
+The way of culture is different: we are summoned to examine the achievements of humanity under favoring conditions. Take a look at what it creates when it took itself most seriously. A virtual addiction that I am not complete ever, the perfecting of lives through examples. Culture provides such examples, through drama, literature, art.
+The whole point of classical study, or the aesthetic movement, is not to prepare for the life of a book reviewer, but rather to prepare for the life of a rational being.
+The whole point of culture is to make a rational being more rational, to achieve "sweetness and light".
+On culture and America. Its political system is meant for its people. The problem with US isn't power or wealth, it's that it's uninteresting: what makes a nation interesting is its capacity to inspire awe, through the creation of beauty.
+
+Harrison. What makes England great is coal. (Not Shakespeare, Locke, Marlowe, etc)
+
+John Ruskin. Architecture / art critic. The Stones of Venice. Appreciation of the Gothic.
+Man is never so authentically himself than when at play (Schiller), and one of the great productions of play, is art itself. The authentication of human nature is found in its aesthetic enterprises, not its mechanical, routine, servile undertakings.
+
+Oscar Wilde. The birth of America was the death of art. The idea and the practical.
+
+### Nietzsche
+
+Two ways of influencing philosophy:
+* Rigorously analytical, built on foundation of logic, indebted to Aristotle and Plato.
+* By way of aphorism, wise personal penetrating reflection on the meaning of all things philosophy deals with. Broadly atmospheric.
+
+If the object of philosophy is the search for truth, then Nietzsche's _"what are man's truth ultimately? Merely his irrefutable errors"_, or _"my concept of the philosopher is worlds removed from any concept that would include even a Kant, not to speak of academic ruminants and other professors of philosophy"_.
+
+Nietzsche, 1844 to 1900. Troubled life. Syphilis that may have resulted in madness. A dark, radical, luminary with style and ingenuity.
+Democratization of knowledge is deeply underway. There aren't many periods in history in which Nietzsche would gain a publisher, or a reader base.
+
+Attempts to anchor humanity to a fixed star, moral, or aesthetical, illustrates what Nietzsche judged to be the source of philosopher's failure: lack of historical sense.
+In the universals they seek for, they think of man as constant, but given person is only a product of conditions under which one finds him.
+
+Nietzsche had two different estimations of Schopenhauer.
+Schopenhauer's subjectification of knowledge: _"the world is my idea. No truth is more absolutely certain than that all that exists for knowledge, and, therefore, this whole world, is only object in relation to subject, perception of a perceiver--in a word, idea."_ was a starting point for Nietzsche.
+
+As is, the primary basic aim is self preservation, the will to live.
+
+In time, Schopenhauer's influence on Nietzsche wanes, the will to live transformed to the will to power.
+Ziegfried, the Nibelungenlied, the will to power, lusty unconventionalism.
+We are destroyers. The will to power manifests through destructions.
+
+**The Birth of Tragedy** contrasts the Apollonian and Dionysian, the two faces of the Greek world. (Dionysian enthusiamos, to be willing to be possessed by something. Ecstasis, to be removed from oneself.) Dionysian madness within Apollonian plot.
+
+_"Socratic ethics, dialectics, the temperance and cheerfulness of the pure scholar could be viewed as the symptoms of decline, fatigue, distemper. Might it be the inquiring mind terrified by pessimism and trying to escape from it."_
+
+Ardent admirer of Wagner. Both were influenced by Schopenhauer, and seeking to restore in art what it had lost to the concession to reasonableness.
+Parsifal by Wagner. Wagner was anti-semitic.
+
+Ubermensch, one who will overcome man, or a life of comfort, staying out of trouble, the society of servile, mechanically living people whose lives are empty, pointless sets of distractions.
+
+**Thus said Zarathustra**: I teach you the Overman (Ubermensch). Man is something that shall be overcome. What have you done to overcome him?
+What is ape to man, a laughing stock, and man shall be just that, to the Overman.
+Once the sin against God was the greatest sin, but God died, to sin against the earth is now the most dreadful sin. What is the greatest experience you can have? It is the hour of the great contempt, the hour when your happiness, virtue and reason arouse your disgust.
+
+Nietzsche doesn't think himself or Wagner the overman, the closest one was Goethe, life authentically lived, utterly faithful to one's vocation.
+
+Nietzsche's view on progress. The cheerful aspect of evolutionary forces, is but another myth, whose central mechanism is destruction, creation is always at the expense of destroying something else. Every creative act has to destroy.
+
+Nietzsche declares the body of Judeo-Christian beliefs religions of servitude and guilt, and himself the anti-Christ.
+He then had a scandalous depiction of Jesus, a naive child-like figure, very much akin to Dostoyevsky's idiot.
+That the Christian concept of the other cheek, helping those in need, are rehearsals to keep people in their place, to set a limit on the expression of their feelings.
+Nietzsche finds Judaism worse.
+
+One finds in Nietzsche rejection of all comforting superstitions, the prospect of actual suffering is almost a goal.
+Self loathing, the torture of mistrust, and the misery of him who is overcome have to take place in life, for one to realize oneself to be in the thrall of an inauthentic theater piece, scripted by others. One has not yet began to live the life of man.
+
+One has to realize that loving relationship, or faithful friendship has been based on little more than habit, or sloth, mutual exploitation, before one is finally overcome, and rejecting everything that gave rise to the inauthentic life.
+
+It's only after these, that one begins to see light at the end of the tunnel.
+Through these struggles, one makes one worthy of oneself.
+
+Nietzsche hugged and kissed a horse mistreated by coachman, before collapsing, presumably seeing the horse as an innocent suffering being living the servile life of above.
+
+### J.S. Mill and the liberal tradition
+
+John Stuart Mill. Victorian. 1806 - 1873. Scientific psychology. Inductive experimental science. Autobiography. Home schooled, insulated from other boys. James Mill, father. Hostile towards all religion, especially Christianity, or any God that would make a hell.
+
+Influenced by Jeremy Bentham, and Coleridge.
+Also influenced by Auguste Comte, positivism. The three stages of human mind: the theological, the metaphysical, and the positive (Humian). All phenomemon are subject to constant laws, including social phenomenon.
+
+Influenced Ernst Mach. The Vienna circle. Rid the science of all metaphysical speculation.
+
+Essay **On Liberty**. Locus classicus of political science. Moral paternalism.
+Rights of the individual person to fashion a form of life for himself, freed from the despotism of fashion.
+Defense of utilitarianism.
+
+Science is what takes place in the domain of experience, an empirical enterprise.
+_"Matter itself is the permanent possibility of sensation."_
+The enemy is then any form of intuitionism, or a-priorism, like Kant's categories, or Reed's common sense, or intuition theory of knowledge.
+
+Mill rejects Meno's intuition of knowledge / the introspective method: recalling on what we know from our early years, we fail to come up with any experience that might have conveyed the idea, so we hastily conclude our current awareness is intuition.
+Mill proposes an alternative he called the psychological method.
+Why assume anything else (intuition) is involved, when we learn through experience: see how you learn something now, why assume things you learnt before came from intuition?
+
+Treatise on inductive science. A is the cause of B, in the sense that A can be used causally to manipulate B.
+
+On moral: what we do, we do chiefly as creatures of nature, constituted in such a way to maximize our pleasure, and minimize our pains, i.e. Hume's utilitarianism.
+The right test is then whether something holds up in life, not something holds up in logic.
+
+_"Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness"_
+
+This facade of utilitarianism almost sounds like Epicureanism.
+
+Does this depreciate the human nature? It's not necessarily that what we find pleasurable is always at a low and vulgar level: Mill claims when people assign utility to courses of action, surely what they include is what makes life richer, more meaningful, more developed, more elevated, and more under their rational control, not episodic pleasures.
+The pleasure of this achievement, and the pain caused by the disregard of it, that stand as imperative to good conduct.
+
+Mill's position on freedom is also utilitarian.
+If the wildest and most pernicious and degrading view is false, its falsity will only be exposed by criticism. If something deemed false this way were to be true, then we'd be deprived of its truth because of censorship, or us being the censor.
+
+Our observations and ideas are fallible. No one's idea should take precedence over anyone else's, and such precedence is earned, through utility / usefulness: what works for the general public good.
+
+Liberty extends to a liberty of conscious. Your actions are free as long as they do not harm others.
+Liberty must be used in such a way that does not harm the liberty of others.
+Mill worried about the tyranny of majorities.
+
+### Darwin's influence on philosophy
+
+Species and philosophy. A uniform type of structure and function seem to give insight to the nature itself.
+
+Darwin's influence stretches across biology, political theory, ethics and philosophy.
+With change being the dominating principles now, the search for absolutes seems anachronistic and naive.
+
+Darwin (1809 - 1882) comes from an enlightenment context, a period that values progress through conflict.
+His interest in biology was influenced by friends. Grandfather accomplished physician and inventor. Naturalist on HMS Beagle.
+
+_"being well prepared to appreciate the struggle for existence which everywhere goes on from long-continued observation of the habits of animals and plants, it at once struck me that under these circumstances favourable variations would tend to be preserved, and unfavourable ones to be destroyed. The result of this would be the formation of a new species."_
+
+Designs without a designer.
+
+**Origin of Species**, published 1859. Received immediate and highly positive review by its contemporaries for its systematic observations.
+Natural selection theme.
+
+**The Descent of Man**, controversial work.
+Sexual selection theme. Human nature is not separated in any foundamental way from the balance of nature.
+
+Symmetry between explanation and prediction. A scientific theory is expected to account for what has happened, but also predict what will happen.
+The evolutionary theory does not offer too much in predicting the future.
+
+Geology studies of fossils at his time has already shown earth is far older than the scripture suggests, and whole species had been eradicated.
+Fossil records also suggests a non-linear progression: they provide a broken and shifted record. Breeders also have not produced a new species over the centuries.
+Darwin's view of gradualism does not necessarily hold.
+
+**Herbert Spencer** (social Darwinism, radical libertarianism) proposed survival of the fittest in his Social Statics, which Darwin borrowed in the Origin of Species.
+Darwin remained aloof to Spencer's claims that progress depends on the achievements of the best, and not to be held back to accommodate the needs of the less talented.
+Darwin would reject social Darwinism: survival of a genre / collectives, not of individuals, there needs be a large population for natural selection to work productively over the different variations. Altruism in this sense also complies with natural selection: to serve the interest of the collective and sacrificing that of one's own.
+
+Survival of the fittest and progress through competition echoes in the ethos of Victorian England.
+Growth of population will exceed the production of food. Ireland famine claimed 3 million lives.
+
+The British eugenics society was founded by **Galton**, Darwin's cousin.
+Galton held a hereditarian view of natural variations, and the need to improve society by genetic means. He proposed cash payment to voluntary sterilization, with the payment being proportional to the degree of mental deficiency.
+
+All is in transition and there are natural engines of change operating on each of us.
+There are no fixed values, no eternal verities, no one-size-fits-all moral precepts, no form of law that is the last word, all is contingent and based on the moment-to-moment facts of the natural world.
+There is no telling what features will be serviceable, and the best approach in the interest of survival, may be to let a thousand flowers bloom.
+
+Does the theory of evolution explain human nature?
+There is claim that the domains of purely abstract thought, that of aesthetics, or that of moral thought and ethics where we intentionally sacrifice our most cherished interests, are not explained by natural or sexual selection.
+The debate goes on.
+
+### Marxism
+
+The American view on Marxism is often biased, and the practices of Mao, Lenin or Stalin do not quite match the depth of Marx's writing.
+
+Marx declares himself not a philosopher, and has somewhat a contempt for philosopher: philosophical speculation arises from the underdeveloped nature of the society. In a developed society it would go away as Tarot cards or astrology.
+
+Marx (1818 - 1883) regarded himself a social scientist, and his ideas are specifically drawn from science, not philosophy.
+
+Ethically Jewish, his father converted to Protestantism to preserve his profession in law.
+Married a daughter of the aristocracy. University of Berlin, Hegelian influence. Wrote his doctoral thesis on Democrites and Epicurus's philosophies. Journalism. Radical. His teacher, Feuerbach, was a materalist and relentlessly attacked religion.
+
+Moved from Prussia to France to London, a revolutionary from a young age.
+Little of Marx's writing would have significant scientific contribution. Nor was he interested in systematic philosophical questions, e.g. the mind-body problem.
+
+Marx referred to himself as a **dialectical materialist**: difference with a philosophical materialist being the latter embraces mechanistic considerations: Newton and Galileo's science for example.
+
+The former retains a materialistic ontology, but accounts all change on the struggle of opposites, on whose basis progress becomes possible.
+Hegel sees a transcendental progress based on an abstract rational or intelligent precept, which Marx rejects, and proposes instead that economics is the dominant force behind social progress and human behavior.
+
+Marx claims Darwin's work serves as a natural science basis for his theory on class struggle throughout history. **Das Kapital** was dedicated to Darwin.
+
+Aristotle argues the political and legal framework of society shape the moral character of the citizens, and this represents the decisive factor in social life. Laws of the polis is established to achieve certain ends, e.g. that of virtue.
+For Thomas Aquinas law is reason promulgated by one who has the good of the community at heart.
+
+Economics wouldn't be the central concern for law in their accounts, but Marx turns this around: you begin with productive resources of a tribal enclave, and this recruits the physical powers of a laboring class. That class becomes an instrument by which production becomes possible. Things are produced more efficiently through collaboration. In time, classes becomes separated into the property class and the laborers working the properties. It becomes necessary for the former class to some means to guard their possession, hence the same class proceeds to write the laws and exact the punishments.
+For Marxists, law is a class concept / tool that arose from the material interdependencies of the bourgeouis class.
+
+With the rise of capitalism, the process works mechanically. To amass profit the cost of the labor wants to be minimized. In a capitalist system, it becomes necessary to control the means of production: to make sure production does not outstrip need, in which case the value of the product drops and the goal of amassing profit would not be achieved.
+This control requires power over the primary motive of production, i.e. labor.
+
+There is then the laboring class like a machinery, and treated like machinery in that they'd need to be kept in good shape (wages at slightly higher than subsistance level, means by which the laboring class can reproduce itself), and replenished if broken (the offspring of the laboring class is likely to enter the same enterprises almost like cloning).
+
+Those at the top of the chain see to it that their interests are protected, by law. The legislative and executive powers are mutually serving.
+
+Unionization of 19th century would support his theory.
+
+Feudal society has a pattern of dependency that is more homogeneous, Marx has a positive attitude towards feudal society. The feudal seeks not to amass capital or power, but instead a status compatible with certain religious world view, or to preserve what has been achieved. To do this he recognizes the need and the nobility of labor.
+
+The undoing of feudal society arose from its success: as the feudal states become secure and prosperous, the desire for new goods arise, the possibilities to trade rise.
+Guilds of laborers are formed to limit production and keep prices high. Manufacturing and mass production came about, the unskilled labor replaces the craftsman, and formation of capital fastens thanks to now cheaper labor and centralized modes of production.
+
+This, left unchecked, leads to the rich becoming richer and poor becoming poorer, and revolution becomes necessary.
+
+What is capital?
+Labor produces more than what was paid for it. And the surplus becomes capital. This works only if there are consumers, then for capitalism to succeed, it must continue to expand, the consumer class must be increased.
+In time you have to start producing things unrelated in any way to means of survival, and you must create a consumerism, a consumer ethos, and to do this, you rely on the basic impulse of members of the society, e.g. their self identity, sense of fellowship and worth: I am what I buy / what I am able to buy.
+Marx draws this psychology from the history of religion. He claims religion to be opiate of the masses (for its complacency: to be convinced that your current situation is but an instance in the immense of time, and all that are important are going to happen after this earthly and meagre interval, then you become complacent to the current form of life, as religion redirects the here and now to the unreachable then and there).
+
+Yet his teaching, at least as rendered by Mao and Stalin, might also qualify as opiate of the masses: people put up with forms of life that many would have revolted against, and put up with it because they accept a theory that this form of life is a necessary stage in an alleged evolutionary process.
+Marxism then becomes a deliberate and motivated attempt by the powerful to keep the masses in place through some mythos, a set of rites and rituals, grounded on something unreal but entirely serviceable for the purposes.
+The class conscious becomes the necessary engine of revolution and engine. First thing to recognize is that you are exploited: those paying you wages are not in your interest, but to preserve a system where they are successful, and their success depends on your failure to change anything materially about your life. Then comes the bloody revolution, through which economic and social stasis are compelled to change.
+Science and technology changes the modes of production.
+
+Marx's theory is deterministic, which could be defeated by actual persons living real lives according to terms they articulate terms for themselves.
