@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 summary: For better, for worse, for richer, for poorer, in sickness and in health, until death do you part.
 image: /gallery/all/camlica-2.jpg
-weight: 7
+weight: 6
 ---
 
 ![adem](/gallery/all/camlica-2.jpg)

@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 image: /gallery/all/dog-biting-stone.jpg
 summary: Streets of Turkey are home to two hundred thousand four-legged friends of ours.
-weight: 3
+weight: 2
 ---
 
 ![dog-cappadocia](/gallery/all/dog-biting-stone.jpg)

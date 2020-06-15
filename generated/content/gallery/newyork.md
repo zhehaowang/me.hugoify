@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 summary: Random moments in New York City.
 image: /gallery/all/fireworks.jpg
-weight: 9
+weight: 8
 ---
 
 ![fireworks](/gallery/all/fireworks.jpg)

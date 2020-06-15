@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 summary: Istanbul, the largest city in Europe and cultural center of Byzantium, the Ottomans and Turkey.
 image: /gallery/all/hagia-sophia-night.jpg
-weight: 4
+weight: 3
 ---
 
 ![hagia-sophia](/gallery/all/hagia-sophia-night.jpg)

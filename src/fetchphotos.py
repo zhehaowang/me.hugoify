@@ -21,7 +21,7 @@ class GooglePhotosGetter():
         if not creds or creds.invalid:
             flow = client.flow_from_clientsecrets('client_secret.json', SCOPES)
             creds = tools.run_flow(flow, store)
-        self.service = build('photoslibrary', 'v1', http=creds.authorize(Http()), cache_discovery=False)
+        self.service = build('photoslibrary', 'v1', http=creds.authorize(Http()))
 
     def get_albums(self, page_size=50):
         results = self.service.albums().list(

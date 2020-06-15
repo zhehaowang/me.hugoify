@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 summary: Skyline at golden hour.
 image: /gallery/all/manhattan-skyline-hoboken.jpg
-weight: 8
+weight: 7
 ---
 
 ![hoboken](/gallery/all/manhattan-skyline-hoboken.jpg)

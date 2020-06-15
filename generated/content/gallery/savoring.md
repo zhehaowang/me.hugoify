@@ -4,7 +4,7 @@ layout: gallery
 date: 2019-09-10
 summary: Savoring every tiny moment on a solo adventure.
 image: /gallery/all/grapes.jpg
-weight: 5
+weight: 4
 ---
 
 ![grapes](/gallery/all/grapes.jpg)
