@@ -11,3 +11,7 @@ Produce a [Hugo](https://gohugo.io)/web-ready derived view of the content on [zh
 optionally,
 * update search index
 * update p_ google photos (require js edits for now)
+
+### Renewing certificate
+
+* Check out [renew.sh](src/renew.sh)
