@@ -218,11 +218,13 @@ class Converter():
     def create(self, filename):
         category = self.infer_category(filename)
         if category in self.templates:
-            default_categories = ["notes", "about", "essay"]
+            default_categories = ["notes", "about", "posts"]
             if category in default_categories:
                 self.render_default_category(category, filename)
             elif category == "emcpp":
                 self.render_effective_category(category, filename)
+            else:
+                logging.error(f"unknown category {category} file {filename}")
         return
 
     def create_files(self, infiles):
