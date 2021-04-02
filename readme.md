@@ -5,7 +5,11 @@ Produce a [Hugo](https://gohugo.io)/web-ready derived view of the content on [zh
 ### How to use
 
 * Set up Hugo
-* Install dependencies
+  * `snap`
+  * `linuxbrew` / `brew`
+* Install dependencies `pip3 install -r requirements.txt`
+* Clone submodule `git submodule init; git submodule update`
+  * If submodule `checkout` complains, `git rm --cached checkout`
 * `./main.py`
 
 optionally,
